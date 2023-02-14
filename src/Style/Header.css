@@ -2,37 +2,59 @@
 display: flex;
 flex-direction: row;
 }
-.menu{
+/* .menu{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 3rem;
     margin-left: 35%;
-   
-
+} */
+.header li{
+    display: inline-block;
+    align-items: center;
+    padding: 0.5rem;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    margin-top: 10%;
+    font-size: 16px;
+    font-family: 'Inter';
 }
+
 a{
     text-decoration: none;
+    color: black;
 }
 a:hover{
     color: aquamarine;
 }
-.nav{
-    display: inline-block;
+.navbar{
+    /* display: inline-block;
     align-items: center;
-    padding: 1.5rem;
+    padding: 0,5rem; */
+     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 25%;
 }
-.mail{
-    border-radius: 25px;
+.header button{
+     border-radius: 25px;
     width: 250px;
-    height:40px;
+    height:50px;
     text-align: center;
-    background-color: rgb(46, 109, 60);
+    background-color: #0CA34D;
     color: white;
-    margin-top: 4%;
-    margin-left: 20%;
+    margin-top: 8%;
+    padding: 5%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+     text-align: center;
 
 }
 .logo{
     font-size: 50px;
-}
+} 
