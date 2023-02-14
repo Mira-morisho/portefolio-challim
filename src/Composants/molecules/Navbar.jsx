@@ -11,15 +11,15 @@ export default function () {
 
           <li>
             {" "}
-            <a href="#serverices">SERVICE</a>
+            <a href="#serverices">PORTEFOLIO</a>
           </li>
           <li>
             {" "}
-            <a href="#skills">COMPETANCE</a>
+            <a href="#skills">SERVICE</a>
           </li>
           <li>
             {" "}
-            <a href="#portefolio">PORTEFOLIO</a>
+            <a href="#conctat"> CLIENT</a>
           </li>
           <li>
             {" "}

@@ -1,0 +1,2047 @@
+<!DOCTYPE html>
+<html lang="fr"
+      class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+    <link rel="icon" type="image/png" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <style>
+        /* latin-ext */
+        @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 500;
+            font-display: swap;
+            src: url(https://fonts.gstatic.com/s/roboto/v27/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+
+        /* latin */
+        @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 500;
+            font-display: swap;
+            src: url(https://fonts.gstatic.com/s/roboto/v27/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+
+        /* latin-ext */
+        @font-face {
+            font-family: 'Roboto Mono';
+            font-style: normal;
+            font-weight: 400;
+            font-display: swap;
+            src: url(https://fonts.gstatic.com/s/robotomono/v13/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SuW-AJi8SJQtQ4Y.woff) format('woff');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+
+        /* latin */
+        @font-face {
+            font-family: 'Roboto Mono';
+            font-style: normal;
+            font-weight: 400;
+            font-display: swap;
+            src: url(https://fonts.gstatic.com/s/robotomono/v13/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW-AJi8SJQt.woff) format('woff');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+    </style>
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<meta name="description" content="Vous avez fait votre choix entre ordinateur de bureau et ordinateur portable, mais il reste encore un arbitrage à effectuer : PC tout-en-un ou tour PC ? Le choix n’est pas qu’esthétique : il dépend essentiellement de l’usage que vous comptez en faire. Suivez nos conseils pour sélectionner l’ordinateur de bureau qui correspond à vos besoins !" />
+	<link rel="canonical" href="https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?" />
+	<meta property="og:description" content="Vous avez fait votre choix entre ordinateur de bureau et ordinateur portable, mais il reste encore un arbitrage à effectuer : PC tout-en-un ou tour PC ? Le choix n’est pas qu’esthétique : il dépend essentiellement de l’usage que vous comptez en faire. Suivez nos conseils pour sélectionner l’ordinateur de bureau qui correspond à vos besoins !" />
+	<meta property="og:url" content="https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/" />
+	<meta property="og:site_name" content="L&#039;Éclaireur Fnac" />
+	<meta property="article:published_time" content="2018-12-14T07:00:00+00:00" />
+	<meta property="article:modified_time" content="2022-05-24T12:56:53+00:00" />
+	<meta property="og:image" content="https://static.fnac-static.com/multimedia/Images/FD/Comete/79722/CCP_IMG_ORIGINAL/998867.jpg" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="538" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://leclaireur.fnac.com/#organization","name":"L'\u00c9claireur Fnac","url":"https://leclaireur.fnac.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://leclaireur.fnac.com/#logo","inLanguage":"fr-FR","url":"https://leclaireur.fnac.com/wp-content/uploads/2022/05/logo-eclaireur.png","contentUrl":"https://leclaireur.fnac.com/wp-content/uploads/2022/05/logo-eclaireur.png","width":1920,"height":1920,"caption":"L'\u00c9claireur Fnac"},"image":{"@id":"https://leclaireur.fnac.com/#logo"}},{"@type":"WebSite","@id":"https://leclaireur.fnac.com/#website","url":"https://leclaireur.fnac.com/","name":"L&#039;\u00c9claireur Fnac","description":"le m\u00e9dia du choix \u00e9clair\u00e9","publisher":{"@id":"https://leclaireur.fnac.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://leclaireur.fnac.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"ImageObject","@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#primaryimage","inLanguage":"fr-FR","url":"https://static.fnac-static.com/multimedia/Images/FD/Comete/79722/CCP_IMG_ORIGINAL/998867.jpg","contentUrl":"https://static.fnac-static.com/multimedia/Images/FD/Comete/79722/CCP_IMG_ORIGINAL/998867.jpg","width":1920,"height":1280},{"@type":"WebPage","@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#webpage","url":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/","name":"PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?","isPartOf":{"@id":"https://leclaireur.fnac.com/#website"},"primaryImageOfPage":{"@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#primaryimage"},"datePublished":"2018-12-14T07:00:00+00:00","dateModified":"2022-05-24T12:56:53+00:00","description":"Vous avez fait votre choix entre ordinateur de bureau et ordinateur portable, mais il reste encore un arbitrage \u00e0 effectuer : PC tout-en-un ou tour PC ? Le choix n\u2019est pas qu\u2019esth\u00e9tique : il d\u00e9pend essentiellement de l\u2019usage que vous comptez en faire. Suivez nos conseils pour s\u00e9lectionner l\u2019ordinateur de bureau qui correspond \u00e0 vos besoins !","breadcrumb":{"@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/"]}]},{"@type":"BreadcrumbList","@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Page d'accueil","item":"https://leclaireur.fnac.com/"},{"@type":"ListItem","position":2,"name":"Articles","item":"https://leclaireur.fnac.com/articles/"},{"@type":"ListItem","position":3,"name":"Nos conseils","item":"https://leclaireur.fnac.com/categorie/conseils/"},{"@type":"ListItem","position":4,"name":"Conseils high tech","item":"https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/"},{"@type":"ListItem","position":5,"name":"PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?"}]},{"@type":["Article","NewsArticle"],"@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#article","isPartOf":{"@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#webpage"},"author":{"@id":"https://leclaireur.fnac.com/#/schema/person/84b4ccd5c0c0eda0e678ad2eddd2c00c"},"headline":"PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?","datePublished":"2018-12-14T07:00:00+00:00","dateModified":"2022-05-24T12:56:53+00:00","mainEntityOfPage":{"@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#webpage"},"wordCount":706,"publisher":{"@id":"https://leclaireur.fnac.com/#organization"},"image":{"@id":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/#primaryimage"},"thumbnailUrl":"https://static.fnac-static.com/multimedia/Images/FD/Comete/79722/CCP_IMG_ORIGINAL/998867.jpg","keywords":["Guide achat PC","Ordinateur de bureau","PC de bureau","Pc tout en un","Id\u00e9e cadeau"],"articleSection":["Informatique","Conseils high tech","Windows","Tech","Informatique"],"inLanguage":"fr-FR"},{"@type":"Person","@id":"https://leclaireur.fnac.com/#/schema/person/84b4ccd5c0c0eda0e678ad2eddd2c00c","name":"import","image":{"@type":"ImageObject","@id":"https://leclaireur.fnac.com/#personlogo","inLanguage":"fr-FR","url":"https://secure.gravatar.com/avatar/63cdac78a2a1c5f7055c1c7ada354507?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/63cdac78a2a1c5f7055c1c7ada354507?s=96&d=mm&r=g","caption":"import"},"url":"https://leclaireur.fnac.com/auteur/import/"}]}</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/generated/63e4ffa617776_gutenberg.css"><link rel="stylesheet" type="text/css" href="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/generated/63e4ffa617776_style.css">    <script>    (function (w) {       w.F = w.F || {};       w.F.CONFIG = {         PATH_URL: '/',         GA_UA: null,         ROOT_URL: 'https://leclaireur.fnac.com/',         WP_ENVIRONMENT_TYPE: 'production',         THEME_URL: 'https://leclaireur.fnac.com/wp-content/themes/labo_fnac/',         API_URL: 'https://leclaireur.fnac.com/wp-admin/admin-ajax.php',         DEBUG: false,         URL_CGU: '',         ID_ARCHIVE_ADHERENT: 104705,         IS_BOT: /page speed insights|lighthouse|bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent || '')       };       w.F.components = {};       w.F._ = {         wW: w.innerWidth,         wH: w.innerHeight,         scrollTop: 0       };       F.breakpoints = {         SMALL_DESKTOP: 1275,         TABLET: 1024,         TABLET_PORTRAIT: 960,         MOBILE: 767,         SMALL_MOBILE: 380};       w.F.isSmallDesktop = function () {         return F._.wW <= F.breakpoints.SMALL_DESKTOP       };       w.F.isTablet = function () {         return F._.wW <= F.breakpoints.TABLET       };       w.F.isTabletPortrait = function () {         return F._.wW <= F.breakpoints.TABLET_PORTRAIT       };       w.F.isMobile = function () {         return F._.wW <= F.breakpoints.MOBILE       };       w.F.isSmallMobile = function () {         return F._.wW <= F.breakpoints.SMALL_MOBILE       };     })(window);     
+        window.apntag = window.apntag || {
+            debug: false
+        };
+
+        window.apntag.anq = window.apntag.anq || [];
+    </script>
+</head>
+
+
+<body class="post-template-default single single-post postid-151257 single-format-standard">
+<a href="#content" class="skip-link btn -yellow -rounded">Accéder au contenu</a>
+<div id="full-wrapper">
+    
+<header class="nav-header">
+    <div class="header-top-wrapper">
+        <div class="header-top wrapper -padded -large small">
+            <div class="left">
+                <div class="search">
+                    <form class="commun-form-search  -dark -tiny -full" action="https://leclaireur.fnac.com">
+    <input name="s" type="text" placeholder="Rechercher un sujet" value="" />
+    <button class="ico-btn" aria-label="rechercher"><svg class=""  width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-loupe"></use></svg></button>
+</form>                </div>
+                <nav class="navigation ">
+                    <ul id="menu-top-menu" class="menu"><li class="menu-item menu-item-type-post_type_archive menu-item-object-evenement menu-item-52"><a href="https://leclaireur.fnac.com/agenda/">Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-type_post menu-item-has-children menu-item-33883"><a href="https://leclaireur.fnac.com/type-article/video/">Vidéos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43434"><a href="https://leclaireur.fnac.com/tag/les-instants-a-la-fnac/">Les Instants à la Fnac</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40941"><a href="https://leclaireur.fnac.com/playlist/514-la-claque-interview/">La Claque Interview</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40942"><a href="https://leclaireur.fnac.com/playlist/1141-raconte-moi-un-dessin/">Raconte-moi un dessin</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40947"><a href="https://leclaireur.fnac.com/playlist/1070-lavant-claque/">L&rsquo;Avant-Claque</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41693"><a href="https://leclaireur.fnac.com/playlist/1614-manga-du-mois/">Manga du mois</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41482"><a href="https://leclaireur.fnac.com/playlist/1612-1-min-avec/">Une minute avec</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-podcast menu-item-has-children menu-item-394"><a href="https://leclaireur.fnac.com/podcasts/">Podcasts</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-395"><a href="https://leclaireur.fnac.com/podcast/376-infusion-fnac/">Infusion Fnac</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-988"><a href="https://leclaireur.fnac.com/podcast/973-face-au-monde/">Face au monde</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-989"><a href="https://leclaireur.fnac.com/podcast/509-la-couleur-des-mots/">La couleur des Mots</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-1610"><a href="https://leclaireur.fnac.com/podcast/1607-labofnac/">Labo Fnac : Le Podcast</a></li>
+</ul>
+</li>
+</ul>                </nav>
+            </div>
+            <div class="right">
+                <a class="commun-btn-fnac fnac-com " href="https://www.fnac.com" target="_blank" rel="noopener" title="Acheter sur Fnac.com">
+    <svg class=""  width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-fnac"></use></svg>    <span class="small">Acheter sur Fnac.com</span>
+</a>            </div>
+        </div>
+    </div>
+
+    <div class="header wrapper -medium -padded center" >
+        <button class="btn-burger trigger-js" aria-label="Ouvrir ou fermer le menu" data-trigger-component="NavMobile" data-trigger-action="toggle"><span></span></button>
+                    <a href="https://leclaireur.fnac.com/" rel="home" class="logo image-wrapper" title="Retour à la Page d'accueil">
+                <svg class=""  width="438" height="186" viewBox="0 0 438 186" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-eclaireur"></use><title>PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?</title></svg>            </a>
+            </div>
+
+    <div class="nav-mega-menu" data-component="NavMegaMenu">
+    <nav class="navigation wrapper -padded -medium">
+                <ul class="">
+                            <li class="category-color -cat-15 term-15  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/culture/" title="">
+                        Culture                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                            <script type="text/template">                            <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/culture/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Culture                                        </span>
+
+                                        <span class="category-color -cat-15 term-15 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-culture" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1622"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/">La Claque</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-471"><a href="https://leclaireur.fnac.com/categorie/culture/livres-bd/">Livres / BD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-472"><a href="https://leclaireur.fnac.com/categorie/culture/cinema/">Cinéma</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-473"><a href="https://leclaireur.fnac.com/categorie/culture/musique/">Musique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1773"><a href="https://leclaireur.fnac.com/categorie/culture/arts/">Arts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44080"><a href="https://leclaireur.fnac.com/categorie/culture/theatre/">Théâtre</a></li>
+</ul>
+                                    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/litterature/">
+                Littérature            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/roman/">
+                Roman            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/exposition/">
+                Exposition            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/album/">
+                Album            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/film/">
+                Film            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/nft/">
+                NFT            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/concert/">
+                Concert            </a>
+            </div>
+</div>                                </div>
+                            </div>
+                            </script>                        </div>
+                                    </li>
+                            <li class="category-color -cat-16 term-16  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/pop-culture/" title="">
+                        Pop Culture                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                            <script type="text/template">                            <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/pop-culture/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Pop Culture                                        </span>
+
+                                        <span class="category-color -cat-16 term-16 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-popculture" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481"><a href="https://leclaireur.fnac.com/categorie/pop-culture/jeux-video/">Jeux vidéo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-482"><a href="https://leclaireur.fnac.com/categorie/pop-culture/mangas/">Mangas</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-483"><a href="https://leclaireur.fnac.com/categorie/pop-culture/comics/">Comics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-484"><a href="https://leclaireur.fnac.com/categorie/pop-culture/series/">Séries</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35853"><a href="https://leclaireur.fnac.com/categorie/pop-culture/figurines-jeux-societe-jouets/">Figurines et jeux</a></li>
+</ul>
+                                    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/netflix/">
+                Netflix            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/nintendo/">
+                Nintendo            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/anime/">
+                Anime            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/disney-plus/">
+                Disney+            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/star-wars/">
+                Star Wars            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/lego/">
+                LEGO            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/squid-game/">
+                Squid Game            </a>
+            </div>
+</div>                                </div>
+                            </div>
+                            </script>                        </div>
+                                    </li>
+                            <li class="category-color -cat-12 term-12  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/tech/" title="">
+                        Tech                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                            <script type="text/template">                            <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/tech/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Tech                                        </span>
+
+                                        <span class="category-color -cat-12 term-12 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-tech" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-488"><a href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/">Tests Labo Fnac</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32175"><a href="https://leclaireur.fnac.com/barometre-sav/">Baromètre SAV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-489"><a href="https://leclaireur.fnac.com/categorie/tech/smartphones/">Smartphones</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-490"><a href="https://leclaireur.fnac.com/categorie/tech/informatique/">Informatique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-491"><a href="https://leclaireur.fnac.com/categorie/tech/son/">Son</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-492"><a href="https://leclaireur.fnac.com/categorie/tech/tv/">TV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493"><a href="https://leclaireur.fnac.com/categorie/tech/objets-connectes/">Objets connectés</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-494"><a href="https://leclaireur.fnac.com/categorie/tech/maison/">Maison</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-495"><a href="https://leclaireur.fnac.com/categorie/tech/photo-et-video/">Photo et vidéo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32151"><a href="https://leclaireur.fnac.com/categorie/tech/gaming/">Gaming</a></li>
+</ul>
+                                    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/casques-sans-fil/">
+                Casques sans fil            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/casque-vr/">
+                Casque VR            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/processeurs/">
+                Processeurs            </a>
+            </div>
+</div>                                </div>
+                            </div>
+                            </script>                        </div>
+                                    </li>
+                            <li class="category-color -cat-17 term-17  menu-item menu-item-type-taxonomy menu-item-object-category  ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/societe/" title="">
+                        Société                        <i></i>
+                    </a>
+
+                                    </li>
+                            <li class="category-color -cat-18 term-18  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/la-claque-fnac/" title="">
+                        La Claque Fnac                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                            <script type="text/template">                            <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/la-claque-fnac/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            La Claque Fnac                                        </span>
+
+                                        <span class="category-color -cat-18 term-18 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-laclaque" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-475"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-livre/">Livre</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-476"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-musique/">Musique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-477"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-cinema-series/">Cinéma &#038; Séries</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-spectacles/">Spectacles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-replay/">Replay</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-festival menu-item-34910"><a href="https://leclaireur.fnac.com/festival/salon-fnac-livres-2021/">Salon Fnac Livres 2021</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-festival menu-item-86310"><a href="https://leclaireur.fnac.com/festival/fnac-live-paris/">Fnac Live Paris 2022</a></li>
+</ul>
+                                                                    </div>
+                            </div>
+                            </script>                        </div>
+                                    </li>
+                            <li class="category-color -cat-12 term-232  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/" title="">
+                        Labo Fnac                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                            <script type="text/template">                            <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Labo Fnac                                        </span>
+
+                                        <span class="category-color -cat-12 term-232 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-labo" class="medium-strong menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43116"><a href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/?type=test">Tests Labo Fnac</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49744"><a href="https://leclaireur.fnac.com/le-labo-fnac-cest-quoi/">Labo Fnac, c’est quoi ?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43106"><a href="https://leclaireur.fnac.com/barometre-sav/">Baromètre SAV</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-43108"><a href="https://leclaireur.fnac.com/podcast/1607-labofnac/">Labo Fnac : Le Podcast</a></li>
+</ul>
+                                                                    </div>
+                            </div>
+                            </script>                        </div>
+                                    </li>
+                            <li class="category-color -cat-1425 term-1425  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/conseils/" title="">
+                        Nos conseils                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                            <script type="text/template">                            <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/conseils/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Nos conseils                                        </span>
+
+                                        <span class="category-color -cat-1425 term-1425 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-conseil" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185774"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-libraires/">Conseils des libraires</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185775"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-disquaires/">Conseils des disquaires</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185776"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-cinema-serie/">Conseils cinéma série</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185777"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-jeux-video/">Conseils jeux vidéo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-185778"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/">Conseils high tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185779"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-maison/">Conseils maison</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185780"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-sports-loisirs/">Conseils sports loisirs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185781"><a href="https://leclaireur.fnac.com/categorie/conseils/univers-des-enfants/">L&rsquo;univers des enfants</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185782"><a href="https://leclaireur.fnac.com/categorie/conseils/idees-cadeaux/">Idées cadeaux</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185783"><a href="https://leclaireur.fnac.com/categorie/conseils/nos-temps-forts/">Nos temps forts</a></li>
+</ul>
+                                                                    </div>
+                            </div>
+                            </script>                        </div>
+                                    </li>
+            
+                    </ul>
+            </nav>
+</div></header>    <div aria-hidden="true" tabindex="-1" class="nav-sticky" data-component="NavSticky" data-ref="NavSticky" data-component-options='{"showOnlyWhenUp":true}'>
+    <script type="text/template">
+        <div class="top">
+            <button class="btn-burger trigger-js" aria-label="Ouvrir ou fermer le menu" data-trigger-component="NavMobile" data-trigger-action="toggle"><span></span></button>
+
+                            <a href="https://leclaireur.fnac.com/" rel="home" class="logo image-wrapper" title="Retour à la Page d'accueil">
+                    <svg class=""  width="438" height="186" viewBox="0 0 438 186" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-eclaireur"></use><title>PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?</title></svg>                </a>
+                        <a class="commun-btn-fnac fnac-com " href="https://www.fnac.com" target="_blank" rel="noopener" title="Acheter sur Fnac.com">
+    <svg class=""  width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-fnac"></use></svg>    <span class="small">Acheter sur Fnac.com</span>
+</a>        </div>
+        <div class="nav-mega-menu -in-sticky" data-component="NavMegaMenu">
+    <nav class="navigation wrapper -padded -large">
+        
+                            <a href="https://leclaireur.fnac.com/" rel="home" class="logo image-wrapper" title="Retour à la Page d'accueil">
+                    <svg class=""  width="438" height="186" viewBox="0 0 438 186" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-eclaireur"></use><title>PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?</title></svg>                </a>
+                            <ul class="scrollx:tablet scrollx:small-desktop">
+                            <li class="category-color -cat-15 term-15  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/culture/" title="">
+                        Culture                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                                                        <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/culture/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Culture                                        </span>
+
+                                        <span class="category-color -cat-15 term-15 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-culture-1" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1622"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/">La Claque</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-471"><a href="https://leclaireur.fnac.com/categorie/culture/livres-bd/">Livres / BD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-472"><a href="https://leclaireur.fnac.com/categorie/culture/cinema/">Cinéma</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-473"><a href="https://leclaireur.fnac.com/categorie/culture/musique/">Musique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1773"><a href="https://leclaireur.fnac.com/categorie/culture/arts/">Arts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44080"><a href="https://leclaireur.fnac.com/categorie/culture/theatre/">Théâtre</a></li>
+</ul>
+                                    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/litterature/">
+                Littérature            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/roman/">
+                Roman            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/exposition/">
+                Exposition            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/album/">
+                Album            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/film/">
+                Film            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/nft/">
+                NFT            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/concert/">
+                Concert            </a>
+            </div>
+</div>                                </div>
+                            </div>
+                                                    </div>
+                                    </li>
+                            <li class="category-color -cat-16 term-16  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/pop-culture/" title="">
+                        Pop Culture                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                                                        <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/pop-culture/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Pop Culture                                        </span>
+
+                                        <span class="category-color -cat-16 term-16 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-popculture-1" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481"><a href="https://leclaireur.fnac.com/categorie/pop-culture/jeux-video/">Jeux vidéo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-482"><a href="https://leclaireur.fnac.com/categorie/pop-culture/mangas/">Mangas</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-483"><a href="https://leclaireur.fnac.com/categorie/pop-culture/comics/">Comics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-484"><a href="https://leclaireur.fnac.com/categorie/pop-culture/series/">Séries</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35853"><a href="https://leclaireur.fnac.com/categorie/pop-culture/figurines-jeux-societe-jouets/">Figurines et jeux</a></li>
+</ul>
+                                    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/netflix/">
+                Netflix            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/nintendo/">
+                Nintendo            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/anime/">
+                Anime            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/disney-plus/">
+                Disney+            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/star-wars/">
+                Star Wars            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/lego/">
+                LEGO            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/squid-game/">
+                Squid Game            </a>
+            </div>
+</div>                                </div>
+                            </div>
+                                                    </div>
+                                    </li>
+                            <li class="category-color -cat-12 term-12  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/tech/" title="">
+                        Tech                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                                                        <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/tech/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Tech                                        </span>
+
+                                        <span class="category-color -cat-12 term-12 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-tech-1" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-488"><a href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/">Tests Labo Fnac</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32175"><a href="https://leclaireur.fnac.com/barometre-sav/">Baromètre SAV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-489"><a href="https://leclaireur.fnac.com/categorie/tech/smartphones/">Smartphones</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-490"><a href="https://leclaireur.fnac.com/categorie/tech/informatique/">Informatique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-491"><a href="https://leclaireur.fnac.com/categorie/tech/son/">Son</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-492"><a href="https://leclaireur.fnac.com/categorie/tech/tv/">TV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493"><a href="https://leclaireur.fnac.com/categorie/tech/objets-connectes/">Objets connectés</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-494"><a href="https://leclaireur.fnac.com/categorie/tech/maison/">Maison</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-495"><a href="https://leclaireur.fnac.com/categorie/tech/photo-et-video/">Photo et vidéo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32151"><a href="https://leclaireur.fnac.com/categorie/tech/gaming/">Gaming</a></li>
+</ul>
+                                    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/casques-sans-fil/">
+                Casques sans fil            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/casque-vr/">
+                Casque VR            </a>
+                    <a class="btn-tag small  -white -bordered" href="https://leclaireur.fnac.com/tag/processeurs/">
+                Processeurs            </a>
+            </div>
+</div>                                </div>
+                            </div>
+                                                    </div>
+                                    </li>
+                            <li class="category-color -cat-17 term-17  menu-item menu-item-type-taxonomy menu-item-object-category  ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/societe/" title="">
+                        Société                        <i></i>
+                    </a>
+
+                                    </li>
+                            <li class="category-color -cat-18 term-18  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/la-claque-fnac/" title="">
+                        La Claque Fnac                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                                                        <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/la-claque-fnac/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            La Claque Fnac                                        </span>
+
+                                        <span class="category-color -cat-18 term-18 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-laclaque-1" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-475"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-livre/">Livre</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-476"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-musique/">Musique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-477"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-cinema-series/">Cinéma &#038; Séries</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-spectacles/">Spectacles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://leclaireur.fnac.com/categorie/la-claque-fnac/la-claque-replay/">Replay</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-festival menu-item-34910"><a href="https://leclaireur.fnac.com/festival/salon-fnac-livres-2021/">Salon Fnac Livres 2021</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-festival menu-item-86310"><a href="https://leclaireur.fnac.com/festival/fnac-live-paris/">Fnac Live Paris 2022</a></li>
+</ul>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                    </li>
+                            <li class="category-color -cat-12 term-232  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/" title="">
+                        Labo Fnac                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                                                        <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Labo Fnac                                        </span>
+
+                                        <span class="category-color -cat-12 term-232 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-labo-1" class="medium-strong menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43116"><a href="https://leclaireur.fnac.com/categorie/tech/tests-labo-fnac/?type=test">Tests Labo Fnac</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49744"><a href="https://leclaireur.fnac.com/le-labo-fnac-cest-quoi/">Labo Fnac, c’est quoi ?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43106"><a href="https://leclaireur.fnac.com/barometre-sav/">Baromètre SAV</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-43108"><a href="https://leclaireur.fnac.com/podcast/1607-labofnac/">Labo Fnac : Le Podcast</a></li>
+</ul>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                    </li>
+                            <li class="category-color -cat-1425 term-1425  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ">
+                    <a class="main-menu-item commun-category-item" href="https://leclaireur.fnac.com/categorie/conseils/" title="">
+                        Nos conseils                        <i></i>
+                    </a>
+
+                                            <div class="sub-menu">
+                                                        <div class="inner">
+                                <a class="push ratio-wrapper" href="https://leclaireur.fnac.com/categorie/conseils/" title="">
+                                    <span class="full">
+                                        <span class="medium">
+                                            Explorer tout l'univers
+                                        </span>
+                                        <span class="title-3">
+                                            Nos conseils                                        </span>
+
+                                        <span class="category-color -cat-1425 term-1425 rounded-btn -big bkg-colored">
+                                            <svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#arrow-right"></use></svg>                                        </span>
+                                    </span>
+                                </a>
+
+                                <div class="right">
+                                    <ul id="menu-menu-conseil-1" class="medium-strong menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185774"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-libraires/">Conseils des libraires</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185775"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-disquaires/">Conseils des disquaires</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185776"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-cinema-serie/">Conseils cinéma série</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185777"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-jeux-video/">Conseils jeux vidéo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-185778"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/">Conseils high tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185779"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-maison/">Conseils maison</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185780"><a href="https://leclaireur.fnac.com/categorie/conseils/conseils-sports-loisirs/">Conseils sports loisirs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185781"><a href="https://leclaireur.fnac.com/categorie/conseils/univers-des-enfants/">L&rsquo;univers des enfants</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185782"><a href="https://leclaireur.fnac.com/categorie/conseils/idees-cadeaux/">Idées cadeaux</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185783"><a href="https://leclaireur.fnac.com/categorie/conseils/nos-temps-forts/">Nos temps forts</a></li>
+</ul>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                    </li>
+            
+                    </ul>
+                    <button class="rounded-btn -gray-dark -normal btn-search" aria-label="rechercher"><svg class=""  width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-loupe"></use></svg></button>
+            </nav>
+</div>        <div class="nav-sticky-search" data-component="NavStickySearch" data-ref="StickySearch">
+    <div class="wrapper -padded -large">
+        <form class="commun-form-search " action="https://leclaireur.fnac.com">
+    <input name="s" type="text" placeholder="Rechercher un sujet" value="" />
+    <button class="ico-btn" aria-label="rechercher"><svg class=""  width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-loupe"></use></svg></button>
+</form>
+        <button class="btn-close">
+            <span class="rounded-btn -medium -beige">
+                <svg class=""  width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#cross"></use></svg>            </span>
+        </button>
+    </div>
+</div>    </script>
+</div>    <div aria-hidden="true" tabindex="-1" class="nav-sticky-post" data-component="NavStickyPost" data-ref="NavStickyPost">
+    <div class="wrapper -padded -large">
+                    <p class="medium">PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?</p>
+        
+        <div class="right">
+                        <div class="share -nav-sticky" data-component="Share" data-component-options='{"title":"PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?", "url":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/", "text" : "PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ? #leclaireurfnac" }'>
+
+    <div class="links-share-desktop nomobile-only">
+        <a data-type="rss" rel="nofollow" target="_blank" aria-label="S'abonner au flux RSS" class="rounded-btn -b-small -gray-black" href="https://leclaireur.fnac.com/categorie/conseils/feed/"><svg class=""  width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-rss"></use></svg></a>
+        <a data-type="facebook" rel="nofollow" aria-label="Partager ce contenu sur Facebook" class="rounded-btn -share-desktop -b-small -gray-black" href="https://www.facebook.com/share.php?u=https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/" data-title="PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?"><svg class=""  width="10" height="20" viewBox="0 0 10 20" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-facebook"></use></svg></a>
+        <a data-type="twitter" rel="nofollow" aria-label="Partager ce contenu sur Twitter" class="rounded-btn -share-desktop -b-small -gray-black" href="https://twitter.com/intent/tweet?text=PC+tout-en-un+ou+tour+PC+%3A+quel+ordinateur+de+bureau+choisir+%3F+https%3A%2F%2Fleclaireur.fnac.com%2Farticle%2Fcp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir%2F"><svg class=""  width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-twitter"></use></svg></a>
+        <a data-type="linkedin" rel="nofollow" aria-label="Partager ce contenu sur LinkedIn" class="rounded-btn -share-desktop -b-small -gray-black" href="https://www.linkedin.com/sharing/share-offsite/?url=https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/"><svg class=""  width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-linkedin"></use></svg></a>
+        <a data-type="link" rel="nofollow" aria-label="Copier le lien de l'article" class="rounded-btn -share-link -b-small -gray-black" href="https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/"><svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-link"></use></svg><div class="etiquette small">Lien copié</div></a>
+    </div>
+
+    <div class="links-share-mobile mobile-only">
+        <a data-type="share" rel="nofollow" aria-label="Partager ce contenu" class="-share-mobile rounded-btn -b-small -gray-black" href="https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/" data-title="PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?"><span class="ico"><svg class=""  width="18" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-share"></use></svg> </span><span class="label sr-only">Partager</span></a>
+    </div>
+</div>
+        </div>
+    </div>
+
+    </div>    <div class="nav-mobile" data-component="NavMobile" data-ref="NavMobile">
+    <div class="nav-mobile-scroller-wrapper">
+        <div class="nav-mobile-scroller">
+        </div>
+    </div>
+</div>
+    <main id="page">
+        
+        <div id="content" class="wrapper -padded -medium">
+    <script type="text/template" id="banner-content">
+        <div class="ad-banner  -in-post -size-300x250" data-component="Banner">
+    <div  class="banner js-ad-slot" data-mobile-inv-code="Leclaireur_FR_Mobile_NosConseils_FA_Banniere_Contenu" data-mobile-size="300x250" data-sizes="300x250" data-inv-code="Leclaireur_FR_Desktop_NosConseils_FA_Banniere_Contenu"></div>
+</div>    </script>
+
+    <article class="single-post  -classic -post category-color -cat-1425">
+                    <div class="ad-banner nomobile-only  -in-post -size-728x90 -no-label" data-component="Banner">
+    <div  class="banner js-ad-slot" data-mobile-inv-code="Leclaireur_FR_Mobile_NosConseils_FA_Banniere_Haute" data-mobile-size="300x250" data-sizes="728x90" data-inv-code="Leclaireur_FR_Desktop_NosConseils_FA_Banniere_Haute"></div>
+</div>
+            <header class="single-post-header wrapper">
+                <ul class="nav-breadcrumb">
+    <li><a href="https://leclaireur.fnac.com/categorie/conseils/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Nos conseils</a></li>    <li class="current nav-breadcrumb-menu has-sub-menu -black -bordered -on-click -small-spaced" data-component="NavBreadcrumbMenu">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="open small">
+            Conseils high tech        </a>
+
+                    <ul class="sub-menu">
+                <script type="text/template">
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-libraires/">Conseils des libraires</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-disquaires/">Conseils des disquaires</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-cinema-serie/">Conseils cinéma série</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-jeux-video/">Conseils jeux vidéo</a>
+                        </li>
+                                            <li class="-current">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/">Conseils high tech</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-maison/">Conseils maison</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-sports-loisirs/">Conseils sports loisirs</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/univers-des-enfants/">L'univers des enfants</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/guides-achat/">Guides d'achat</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/idees-cadeaux/">Idées cadeaux</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/nos-temps-forts/">Nos temps forts</a>
+                        </li>
+                                    </script>
+            </ul>
+        
+    </li>
+    <li class="current nav-breadcrumb-menu has-sub-menu -black -bordered -on-click -small-spaced" data-component="NavBreadcrumbMenu">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/informatique-conseils-high-tech/" class="open small">
+            Informatique        </a>
+
+                    <ul class="sub-menu">
+                <script type="text/template">
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/smartphone/">Smartphone</a>
+                        </li>
+                                            <li class="-current">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/informatique-conseils-high-tech/">Informatique</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/univers-tv/">Univers TV</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/photo-video/">Photo vidéo</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/son-casques-hifi/">Son casques hifi</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/tablettes-tactiles/">Tablettes tactiles</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/objets-connectes-conseils-high-tech/">Objets connectés</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/apple/">Apple</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/android/">Android</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/windows/">Windows</a>
+                        </li>
+                                    </script>
+            </ul>
+        
+    </li>
+</ul>
+                <div class="single-types ico-btn">
+        <i class="label tags-pages">Décryptage</i>
+
+    </div>
+
+                
+                <h1 class="title-2">PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?</h1>
+
+                <div class="single-metas">
+    <div class="row-flex">
+        <div class="commun-date small -single">
+    14 décembre 2018</div>
+                <div class="single-metas-auteurs small">
+            <small>・</small> Par
+            <strong>Patrick</strong>
+        </div>
+        </div>
+
+    </div>
+                
+                
+                
+                
+                            </header>
+
+
+                        <div class="single-post-content -comete" data-component="SinglePostContent" data-component-options='{"post_type":"post"}'>
+                <div class="grid -two-three">
+                    <div class="col">
+                        <div class="single-main-media">
+    <div class="single-main-media-image">
+        <div class="image-content ratio-wrapper -image  -jpg -landscape ">
+            <img class="full" src="https://static.fnac-static.com/multimedia/Images/FD/Comete/79722/CCP_IMG_1200x800/998858.jpg" alt="PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?" loading="lazy" />
+        </div>
+                    
+            <figcaption class="small">
+                                <span class="credit">&copy;DR</span>
+            </figcaption>
+            
+            </div>
+
+</div>
+
+
+                        
+                                                    <div class="excerpt text">
+                                <p>Vous avez fait votre choix entre ordinateur de bureau et ordinateur portable, mais il reste encore un arbitrage à effectuer : PC tout-en-un ou tour PC ? Le choix n’est pas qu’esthétique : il dépend essentiellement de l’usage que vous comptez en faire. Suivez nos conseils pour sélectionner l’ordinateur de bureau qui correspond à vos besoins !</p>
+                            </div>
+                        
+<div class="text"><h2 class="title-part"><strong>Le PC tout-en-un&nbsp;: un must de simplicit&eacute; et de design</strong></h2>
+<p>Autrefois peu attractifs et limit&eacute;s en puissance, les <strong><a href="https://www.fnac.com/Selections-Fnac/Ordinateur-tout-en-un/shi353915/w-4" target="_self" rel="noopener">ordinateurs tout-en-un</a></strong> ont longtemps &eacute;t&eacute; regard&eacute;s avec d&eacute;dain par les sp&eacute;cialistes. Les choses sont diff&eacute;rentes aujourd&rsquo;hui, les constructeurs ayant redoubl&eacute; d&rsquo;efforts pour proposer des PC all-in-one performants. Les mod&egrave;les lanc&eacute;s ces derni&egrave;res ann&eacute;es ont de nombreux avantages&nbsp;:</p>
+<p>&ndash; La simplicit&eacute;&nbsp;: tous les composants sont install&eacute;s derri&egrave;re l&rsquo;&eacute;cran, &agrave; la mani&egrave;re d&rsquo;un <strong><a href="https://www.fnac.com/iMac/Apple-iMac-Mac-Mini-Mac-Pro/nsh352422/w-4" target="_self" rel="noopener">iMac</a></strong>&nbsp;(donc pas de c&acirc;bles qui tra&icirc;nent&nbsp;!)&nbsp;;</p>
+<p>&ndash; Des &eacute;crans de haute technicit&eacute;, souvent tactiles, proposant des diagonales jusqu&rsquo;&agrave; 27 pouces.</p>
+<p>&ndash; La facilit&eacute; d&rsquo;installation&nbsp;: pas de p&eacute;riph&eacute;riques &agrave; brancher les uns aux autres, un syst&egrave;me d&rsquo;exploitation int&eacute;gr&eacute;&hellip; Il suffit de lancer la machine pour en profiter&nbsp;!</p>
+<p>&ndash; Un design attractif, pens&eacute; pour s&rsquo;int&eacute;grer avec douceur &agrave; son environnement.</p>
+<p>&ndash; La l&eacute;g&egrave;ret&eacute;&nbsp;: pratique pour les d&eacute;placements&nbsp;!</p>
+<p>&ndash; Le gain de place, pas de tour encombrante &agrave; caser.</p>
+<p>&ndash; Une consommation d&rsquo;&eacute;nergie moins importante.</p>
+<div><img class="center bloc" style="width: 600px; height: 525px;" src="https://static.fnac-static.com/multimedia/Images/FD/Comete/112526/CCP_IMG_ORIGINAL/1456707.jpg" alt="Tout-en-un Asus"></div>
+<div>
+<h2 class="title-part"><strong>La tour PC&nbsp;: l&rsquo;apanage des connaisseurs</strong></h2>
+<p>La tour PC jouit cependant toujours d&rsquo;une belle cote aupr&egrave;s des connaisseurs. Cet ordinateur se pr&eacute;sente sous la forme d&rsquo;une unit&eacute; centrale (la &laquo;&nbsp;tour&nbsp;&raquo;) qui contient tous les <a href="https://www.fnac.com/Composants/shi181557/w-4" target="_self" rel="noopener"><strong>composants</strong></a>, depuis le processeur jusqu&rsquo;aux connectiques, et d&rsquo;un &eacute;cran s&eacute;par&eacute;. Il est possible d&rsquo;acheter un <strong><a href="https://www.fnac.com/Unite-centrale/Selections-Fnac/nsh353913/w-4" target="_self" rel="noopener">ordinateur avec bo&icirc;tier</a></strong> d&eacute;j&agrave; tout mont&eacute; ou de le composer sur mesure en choisissant chacune des pi&egrave;ces. La tour PC pr&eacute;sente les avantages suivants&nbsp;:</p>
+<div>&ndash; Pour une tour PC pr&eacute;mont&eacute;e&nbsp;: la possibilit&eacute; de faire &eacute;voluer son ordinateur en modifiant n&rsquo;importe quel composant.</div>
+<div>&ndash; Pour une tour &agrave; monter soi-m&ecirc;me&nbsp;: le choix de chacun des &eacute;l&eacute;ments, plus ou moins puissants, afin d&rsquo;adapter son ordinateur de bureau &agrave; ses besoins r&eacute;els, mais aussi &agrave; son budget.</div>
+<div>&ndash; La possibilit&eacute; d&rsquo;adapter son unit&eacute; centrale &agrave; son budget</div>
+<div>&ndash; Une plus grande puissance globale (processeur et cartes graphiques notamment), en g&eacute;n&eacute;ral.</div>
+<div>&ndash; Un SAV plus &eacute;vident : si un composant vient &agrave; tomber en panne, il est facile de le changer.&nbsp;</div>
+<div><img class="center bloc" style="width: 600px; height: 400px;" src="https://static.fnac-static.com/multimedia/Images/FD/Comete/112564/CCP_IMG_ORIGINAL/1457239.jpg" alt="professional-picture-id183240354"></div>
+<div>
+<h2 class="title-part"><strong>Quel PC de bureau pour quel(s) usage(s)&nbsp;?</strong></h2>
+</div>
+<p>C&rsquo;est surtout l&rsquo;usage que vous en aurez qui va guider votre choix&nbsp;:</p>
+<div>&ndash; Avec sa grande simplicit&eacute; d&rsquo;installation, le PC tout-en-un est id&eacute;al si vous &ecirc;tes un d&eacute;butant en informatique et que vous comptez vous limiter &agrave; un usage bureautique ou multim&eacute;dia simple. Il existe des tout-en-un galmer, mais le monde du jeu vid&eacute;o sur PC reste largement l&rsquo;apanage des tours. L&rsquo;&eacute;cran tactile offre un certain confort, notamment dans un cadre professionnel. En contrepartie, vous pourrez difficilement faire &eacute;voluer la configuration de base&nbsp;: augmenter la m&eacute;moire ou changer la carte graphique sont des op&eacute;rations compliqu&eacute;es.&nbsp;</div>
+<div>&ndash; La tour PC est id&eacute;ale pour les plus bricoleurs. Si vous avez l&rsquo;intention de faire &eacute;voluer les composants, ou que vous voulez vous fabriquer sur-mesure un PC de gamer, avec la derni&egrave;re carte graphique en date et le ventilateur ad&eacute;quat, c&rsquo;est bien vers l&rsquo;unit&eacute; centrale qu&rsquo;il faut vous tourner. D&rsquo;autant qu&rsquo;avec les nombreux pas &agrave; pas disponibles sur la toile, le montage d&rsquo;une tour n&rsquo;est plus du tout reserv&eacute; aux initi&eacute;s.&nbsp;</div>
+</div>
+<div><img class="center bloc" style="width: 500px; height: 406px;" src="https://static.fnac-static.com/multimedia/Images/FD/Comete/79705/CCP_IMG_ORIGINAL/998629.jpg" alt="lenovo tout en un"></div>
+<div style="padding: 5px; border: 7px solid #e0e0e0;">
+<div style="padding: 10px; background-color: #ffffff;">
+<h2 class="title-part"><a href="https://www.fnac.com/Ordinateur-de-bureau/shi48968/w-4" target="_blank" rel="noopener"><strong>Retrouvez tous nos ordinateurs de bureau</strong></a></h2>
+</div>
+</div>
+</div>
+
+                        <div class="share -bottom" data-component="Share" data-component-options='{"title":"PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?", "url":"https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/", "text" : "PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ? #leclaireurfnac" }'>
+
+    <div class="links-share-desktop nomobile-only">
+        <a data-type="rss" rel="nofollow" target="_blank" aria-label="S'abonner au flux RSS" class="rounded-btn -medium -beige" href="https://leclaireur.fnac.com/categorie/conseils/feed/"><svg class=""  width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-rss"></use></svg></a>
+        <a data-type="facebook" rel="nofollow" aria-label="Partager ce contenu sur Facebook" class="rounded-btn -share-desktop -medium -beige" href="https://www.facebook.com/share.php?u=https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/" data-title="PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?"><svg class=""  width="10" height="20" viewBox="0 0 10 20" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-facebook"></use></svg></a>
+        <a data-type="twitter" rel="nofollow" aria-label="Partager ce contenu sur Twitter" class="rounded-btn -share-desktop -medium -beige" href="https://twitter.com/intent/tweet?text=PC+tout-en-un+ou+tour+PC+%3A+quel+ordinateur+de+bureau+choisir+%3F+https%3A%2F%2Fleclaireur.fnac.com%2Farticle%2Fcp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir%2F"><svg class=""  width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-twitter"></use></svg></a>
+        <a data-type="linkedin" rel="nofollow" aria-label="Partager ce contenu sur LinkedIn" class="rounded-btn -share-desktop -medium -beige" href="https://www.linkedin.com/sharing/share-offsite/?url=https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/"><svg class=""  width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-linkedin"></use></svg></a>
+        <a data-type="link" rel="nofollow" aria-label="Copier le lien de l'article" class="rounded-btn -share-link -medium -beige" href="https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/"><svg class=""  width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-link"></use></svg><div class="etiquette small">Lien copié</div></a>
+    </div>
+
+    <div class="links-share-mobile mobile-only">
+        <a data-type="share" rel="nofollow" aria-label="Partager ce contenu" class="-share-mobile btn ico-btn -outline" href="https://leclaireur.fnac.com/article/cp32959-pc-tout-en-un-ou-tour-pc-quel-ordinateur-de-bureau-choisir/" data-title="PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?"><span class="ico"><svg class=""  width="18" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-share"></use></svg> </span><span class="label">Partager</span></a>
+    </div>
+</div>
+
+                                <div class="single-metas-auteurs medium">
+            Article rédigé par
+            <div class="commun-photo-texte -small">
+    <div class="row-flex">
+                    <div class="col">
+                <div class="image ratio-wrapper -square -rounded">
+                    <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/60886/CCP_IMG_996xAUTO/735528.jpg" loading="lazy" alt="Patrick" />
+                </div>
+            </div>
+        
+        <div class="col medium">
+            
+            <strong><a href="https://leclaireur.fnac.com/auteur/patrick/" class="link-extend">Patrick</a></strong>            <div class="subtitle"><span class="medium">expert High Tech sur Fnac.com, passionné par les nouvelles technologies</span></div>        </div>
+    </div>
+
+</div>        </div>
+    
+                        
+                        
+<div class="single-tags">
+    <div class="medium">Pour aller plus loin</div>
+
+    <div class="commun-tags ">
+    <div class="tags-wrapper">
+                    <a class="btn-tag small  -bordered" href="https://leclaireur.fnac.com/tag/idee-cadeau/">
+                Idée cadeau            </a>
+                    <a class="btn-tag small  -bordered" href="https://leclaireur.fnac.com/tag/pc-tout-en-un/">
+                Pc tout en un            </a>
+                    <a class="btn-tag small  -bordered" href="https://leclaireur.fnac.com/tag/pc-de-bureau/">
+                PC de bureau            </a>
+                    <a class="btn-tag small  -bordered" href="https://leclaireur.fnac.com/tag/ordinateur-de-bureau/">
+                Ordinateur de bureau            </a>
+                    <a class="btn-tag small  -bordered" href="https://leclaireur.fnac.com/tag/guide-achat-pc/">
+                Guide achat PC            </a>
+            </div>
+</div></div>
+                    </div>
+                    <div class="single-sidebar col -w-side-product">
+            <div class="title-4 overlined-title -fullwidth -no-marged">
+            Sélection de produits
+        </div>
+
+        <div class="sidebar-produits scrollx:mobile">
+            <div class="produit-push row-flex -align-top  -sidebar">
+    <div class="col">
+        <div class="image ">
+            <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                <div class="full bkg-cover"  data-bkg-desktop="https://static.fnac-static.com/multimedia/Images/FR/MDM/4c/dd/35/3530060/1540-1/tsp20220628210421/Apple-iMac-with-Retina-4K-display-Tout-en-un-Core-i5-3-GHz-RAM-8-Go-HDD-1-To-Radeon-Pro-555-GigE-LAN-sans-fil-802-11a-b-g-n-ac-Bluetooth-4-2-macOS-Catalina-10-15-moniteur-LED-21-5-4096-x-2304-4K-clavier-Francais.jpg" ></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="title-5 strong">
+            <a class="link-extend" rel="noopener" target="_blank" title="Acheter Apple iMac with Retina 4K display - Tout-en-un - Core i5 3 GHz - RAM 8 Go - HDD 1 To - Radeon Pro 555 - GigE - LAN sans fil: 802.11a/b/g/n/ac, Bluetooth 4.2 - macOS Catalina 10.15 - moniteur : LED 21.5&quot; 4096 x 2304 (4K) - clavier : Français sur Fnac.com" href="https://www.fnac.com/Apple-iMac-with-Retina-4K-display-Tout-en-un-Core-i5-3-GHz-RAM-8-Go-HDD-1-To-Radeon-Pro-555-GigE-LAN-sans-fil-802-11a-b-g-n-ac-Bluetooth-4-2-macOS-Catalina-10-15-moniteur-LED-21-5-4096-x-2304-4K-clavier-Francais/a10728787/w-4">
+                Apple iMac with Retina 4K display - Tout-en-un - Core i5 3 GHz - RAM 8 Go - HDD 1 To - Radeon Pro 555 - GigE - LAN sans fil: 802.11a/b/g/n/ac, Bluetooth 4.2 - macOS Catalina 10.15 - moniteur : LED 21.5" 4096 x 2304 (4K) - clavier : Français            </a>
+        </div>
+                    <div class="price-wrapper inline-list">
+                                    <span class="small">À partir de</span>
+                                <div class="price">
+                    666,50&euro;                </div>
+                            </div>
+
+                            <div class="stock inline-list"><svg class=""  viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><use href="#ico-check"></use></svg><strong class="small">En stock vendeur partenaire</strong></div>
+                    
+        
+        <span class="btn btn-buy">Acheter sur Fnac.com</span>
+    </div>
+</div><div class="produit-push row-flex -align-top  -sidebar">
+    <div class="col">
+        <div class="image ">
+            <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                <div class="full bkg-cover"  data-bkg-desktop="https://static.fnac-static.com/multimedia/Images/FR/MDM/e6/dc/35/3529958/1540-1/tsp20230201220824/Apple-iMac-27-Retina-5K-3-To-Fusion-Drive-8-Go-RAM-Intel-Core-i7-quadricoeur-a-4-2-GHz-Sur-mesure.jpg" ></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="title-5 strong">
+            <a class="link-extend" rel="noopener" target="_blank" title="Acheter Apple iMac 27&quot; Retina 5K 3 To Fusion Drive 8 Go RAM Intel Core i7 quadricœur à 4,2 GHz Sur-mesure sur Fnac.com" href="https://www.fnac.com/Apple-iMac-27-Retina-5K-3-To-Fusion-Drive-8-Go-RAM-Intel-Core-i7-quadricoeur-a-4-2-GHz-Sur-mesure/a10716205/w-4">
+                Apple iMac 27" Retina 5K 3 To Fusion Drive 8 Go RAM Intel Core i7 quadricœur à 4,2 GHz Sur-mesure            </a>
+        </div>
+                    <div class="price-wrapper inline-list">
+                                    <span class="small">À partir de</span>
+                                <div class="price">
+                    1 969&euro;                </div>
+                            </div>
+
+                            <div class="stock inline-list"><svg class=""  viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><use href="#ico-check"></use></svg><strong class="small">En stock vendeur partenaire</strong></div>
+                    
+        
+        <span class="btn btn-buy">Acheter sur Fnac.com</span>
+    </div>
+</div><div class="produit-push row-flex -align-top  -sidebar">
+    <div class="col">
+        <div class="image ">
+            <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                <div class="full bkg-cover"  data-bkg-desktop="https://static.fnac-static.com/multimedia/Images/FR/MDM/80/43/78/7881600/1540-1.jpg" ></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="title-5 strong">
+            <a class="link-extend" rel="noopener" target="_blank" title="Voir PC Lenovo Ideacentre 510S-08IKL sur Fnac.com" href="https://www.fnac.com/PC-Lenovo-Ideacentre-510S-08IKL/a12685449/w-4">
+                PC Lenovo Ideacentre 510S-08IKL            </a>
+        </div>
+        
+        
+        <span class="btn btn-buy">Voir sur Fnac.com</span>
+    </div>
+</div><div class="produit-push row-flex -align-top  -sidebar">
+    <div class="col">
+        <div class="image ">
+            <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                <div class="full bkg-cover"  data-bkg-desktop="https://static.fnac-static.com/multimedia/Images/FR/MDM/14/2b/6f/7285524/1540-1/tsp20210707191507/PC-HP-Omen-Desktop-880-080nf-Gaming.jpg" ></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="title-5 strong">
+            <a class="link-extend" rel="noopener" target="_blank" title="Voir PC HP Omen Desktop 880-080nf Gaming sur Fnac.com" href="https://www.fnac.com/PC-HP-Omen-Desktop-880-080nf-Gaming/a11252650/w-4">
+                PC HP Omen Desktop 880-080nf Gaming            </a>
+        </div>
+        
+        
+        <span class="btn btn-buy">Voir sur Fnac.com</span>
+    </div>
+</div><div class="produit-push row-flex -align-top  -sidebar">
+    <div class="col">
+        <div class="image ">
+            <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                <div class="full bkg-cover"  data-bkg-desktop="https://static.fnac-static.com/multimedia/Images/FR/MDM/82/b8/80/8435842/1540-1/tsp20220715141947/PC-Asus-ROG-GL12CP-FR075T.jpg" ></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="title-5 strong">
+            <a class="link-extend" rel="noopener" target="_blank" title="Voir PC Asus ROG GL12CP-FR075T sur Fnac.com" href="https://www.fnac.com/PC-Asus-ROG-GL12CP-FR075T/a12530212/w-4">
+                PC Asus ROG GL12CP-FR075T            </a>
+        </div>
+        
+        
+        <span class="btn btn-buy">Voir sur Fnac.com</span>
+    </div>
+</div><div class="produit-push row-flex -align-top  -sidebar">
+    <div class="col">
+        <div class="image ">
+            <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                <div class="full bkg-cover"  data-bkg-desktop="https://static.fnac-static.com/multimedia/Images/FR/MDM/97/62/7d/8217239/1540-1/tsp20220826011755/PC-MSI-aegis-3-8RC-009FR-Gaming.jpg" ></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="title-5 strong">
+            <a class="link-extend" rel="noopener" target="_blank" title="Voir PC MSI Aegis 3 8RC-009FR Gaming sur Fnac.com" href="https://www.fnac.com/PC-MSI-Aegis-3-8RC-009FR-Gaming/a12348893/w-4">
+                PC MSI Aegis 3 8RC-009FR Gaming            </a>
+        </div>
+        
+        
+        <span class="btn btn-buy">Voir sur Fnac.com</span>
+    </div>
+</div>        </div>
+    <div class="ad-banner  -size-300x600 -sticky" data-component="Banner">
+    <div  class="banner js-ad-slot" data-mobile-inv-code="Leclaireur_FR_Mobile_NosConseils_FA_Sumo" data-mobile-size="300x250" data-sizes="300x600" data-inv-code="Leclaireur_FR_Desktop_NosConseils_FA_Sumo"></div>
+</div></div>                </div>
+            </div>
+
+            
+            <div class="bottom-pushs -single">
+    <div class="carousel-push-bottom">
+    <div class="header">
+        <div class="title-4 overlined-title">Sur le même thème</div>
+            </div>
+    
+    <div class="carousel glide" data-component="Carousel" >
+    <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides">
+            <li class="glide__slide">
+                <div class="list-item  -selection -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/160007/CCP_IMG_500xAUTO/2119691.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Sélection</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    08 nov. 2022</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/selection/cp18908-10-ordinateurs-de-bureau-pour-toute-la-famille/" class="link-extend">
+                10 ordinateurs de bureau pour toute la famille            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -selection -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/159787/CCP_IMG_500xAUTO/2116619.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Sélection</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    28 juil. 2022</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/selection/cp24801-pc-gamer-jouer-bien-travailler-plus/" class="link-extend">
+                PC Gamer : jouer bien, travailler plus            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/111630/CCP_IMG_500xAUTO/1444197.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    06 déc. 2021</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp42081-comment-bien-choisir-son-pc-nouvelle-generation/" class="link-extend">
+                Comment bien choisir son PC Nouvelle Génération ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/77694/CCP_IMG_500xAUTO/970505.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    17 juil. 2018</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp32507-comment-choisir-entre-ultra-portable-et-tablette-pc/" class="link-extend">
+                Comment choisir entre ultra-portable et tablette PC ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+            </li>
+        </ul>
+    </div>
+
+    <div data-glide-el="controls">
+        <button data-glide-dir="left" aria-label="Faire défiler vers la gauche">
+            <span class="rounded-btn -medium -gray-dark">
+                <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>            </span>
+        </button>
+        <button data-glide-dir="right" aria-label="Faire défiler vers la droite">
+            <span class="rounded-btn -medium -gray-dark">
+                <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>            </span>
+        </button>
+    </div>
+
+</div></div><div class="carousel-push-bottom">
+    <div class="header">
+        <div class="title-4 overlined-title">Dernièrement dans Décryptage Conseils high tech</div>
+            </div>
+    
+    <div class="carousel glide" data-component="Carousel" >
+    <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides">
+            <li class="glide__slide">
+                <div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/165743/CCP_IMG_500xAUTO/2199911.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    08H00</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp32482-comment-sauvegarder-ses-contacts-sur-android/" class="link-extend">
+                Comment sauvegarder ses contacts sur Android ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-square -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://leclaireur.fnac.com/wp-content/uploads/2017/03/gettyimages-854374306-436x436.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    08H00</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp34144-comment-transferer-ses-fichiers-via-bluetooth-entre-deux-smartphones/" class="link-extend">
+                Comment transférer ses fichiers via Bluetooth entre deux smartphones ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/95058/CCP_IMG_500xAUTO/1213117.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    10 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp37186-comment-savoir-si-un-site-internet-est-fiable/" class="link-extend">
+                Comment savoir si un site Internet est fiable ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/161395/CCP_IMG_500xAUTO/2139079.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    10 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp21332-le-phishing-sachez-le-reconnaitre-en-un-coup-doeil/" class="link-extend">
+                Le PHISHING : sachez le reconnaître en un coup d&rsquo;œil            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/143626/CCP_IMG_500xAUTO/1890649.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    10 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp32916-macbook-guide-des-premiers-pas-avec-lordinateur-dapple/" class="link-extend">
+                MacBook : guide des premiers pas avec l&rsquo;ordinateur d&rsquo;Apple            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-square -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://leclaireur.fnac.com/wp-content/uploads/2023/02/post-fnac-500500px-436x436.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    09 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp58565-la-formation-complete-a-windows-11-22h2/" class="link-extend">
+                La formation complète à Windows 11 &#8211; 22H2            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/125102/CCP_IMG_500xAUTO/1631841.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-des-disquaires/classique-jazz/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Classique jazz</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    09 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp37697-deezer-votre-musique-preferee-partout/" class="link-extend">
+                Deezer : votre musique préférée, partout            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-square -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://leclaireur.fnac.com/wp-content/uploads/2020/11/gettyimages-1004807892-1-436x436.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    09 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp34775-comment-nettoyer-son-ecran-dordinateur/" class="link-extend">
+                Comment nettoyer son écran d&rsquo;ordinateur ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+            </li>
+        </ul>
+    </div>
+
+    <div data-glide-el="controls">
+        <button data-glide-dir="left" aria-label="Faire défiler vers la gauche">
+            <span class="rounded-btn -medium -gray-dark">
+                <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>            </span>
+        </button>
+        <button data-glide-dir="right" aria-label="Faire défiler vers la droite">
+            <span class="rounded-btn -medium -gray-dark">
+                <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>            </span>
+        </button>
+    </div>
+
+</div></div><div class="carousel-push-bottom">
+    <div class="header">
+        <div class="title-4 overlined-title">Les plus lus dans Conseils high tech</div>
+            </div>
+    
+    <div class="carousel glide" data-component="Carousel" >
+    <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides">
+            <li class="glide__slide">
+                <div class="list-item  -post -small -image-square -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://leclaireur.fnac.com/wp-content/uploads/2020/11/gettyimages-1004807892-1-436x436.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    09 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp34775-comment-nettoyer-son-ecran-dordinateur/" class="link-extend">
+                Comment nettoyer son écran d&rsquo;ordinateur ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/165493/CCP_IMG_500xAUTO/2196415.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    04 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp35916-comment-passer-du-clavier-qwerty-au-clavier-azerty/" class="link-extend">
+                Comment passer du clavier QWERTY au clavier AZERTY ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/165420/CCP_IMG_500xAUTO/2195393.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Actu</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    01 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp58469-samsung-galaxy-s23-s23-et-s23-ultra-decouvrez-enfin-les-nouveaux-smartphones-haut-de-gamme/" class="link-extend">
+                Samsung Galaxy S23, S23+ et S23 Ultra : découvrez enfin les nouveaux smartphones haut de gamme            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/95058/CCP_IMG_500xAUTO/1213117.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    10 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp37186-comment-savoir-si-un-site-internet-est-fiable/" class="link-extend">
+                Comment savoir si un site Internet est fiable ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/165345/CCP_IMG_500xAUTO/2194343.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    31 jan. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp32738-votre-iphone-se-decharge-trop-vite-voici-les-solutions/" class="link-extend">
+                Votre iPhone se décharge trop vite ? Voici les solutions            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/143626/CCP_IMG_500xAUTO/1890649.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    10 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp32916-macbook-guide-des-premiers-pas-avec-lordinateur-dapple/" class="link-extend">
+                MacBook : guide des premiers pas avec l&rsquo;ordinateur d&rsquo;Apple            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/165590/CCP_IMG_500xAUTO/2197769.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Actu</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/photo-video/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Photo vidéo</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    08 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp58522-canon-lance-le-eos-r8-et-contrairement-a-son-aine-il-sagit-dun-plein-format/" class="link-extend">
+                Canon lance le EOS R8, et contrairement à son aîné, il s’agit d’un plein format            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-square -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://leclaireur.fnac.com/wp-content/uploads/2023/02/gettyimages-1167864226-436x436.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/photo-video/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Photo vidéo</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    03 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp58465-5-bonnes-raisons-de-choisir-un-appareil-photo-hybride/" class="link-extend">
+                5 bonnes raisons de choisir un appareil photo hybride            </a>
+        </div>
+
+        
+            </div>
+</div>
+</li><li class="glide__slide"><div class="list-item  -post -small -image-landscape -image-jpg category-color -cat-1425" >
+
+    <div class="image">
+        <div class="image-content ratio-wrapper -square" data-component="LazyImage">
+                                <img src="https://static.fnac-static.com/multimedia/Images/FD/Comete/160917/CCP_IMG_500xAUTO/2132399.jpg" loading="lazy" alt=""/>
+                
+            
+                    </div>
+    </div>
+
+    <div class="content">
+        <div class="single-types ico-btn">
+        <i class="label tags-cards">Décryptage</i>
+
+    </div>
+
+                    <div class="meta"><div class="commun-list-item-meta inline-list">
+        <div class="commun-category small-strong">
+        <a href="https://leclaireur.fnac.com/categorie/conseils/conseils-high-tech/" class="commun-category-item small-strong category-color -cat-1425 colored">
+    Conseils high tech</a>    </div>
+<span class="sep small-strong">•</span><div class="commun-date small -small">
+    06 fév. 2023</div></div></div>
+        
+        <div class="title title-3">
+            <a href="https://leclaireur.fnac.com/article/cp48805-comment-bien-choisir-son-iphone-en-2023/" class="link-extend">
+                Comment bien choisir son iPhone en 2023 ?            </a>
+        </div>
+
+        
+            </div>
+</div>
+            </li>
+        </ul>
+    </div>
+
+    <div data-glide-el="controls">
+        <button data-glide-dir="left" aria-label="Faire défiler vers la gauche">
+            <span class="rounded-btn -medium -gray-dark">
+                <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>            </span>
+        </button>
+        <button data-glide-dir="right" aria-label="Faire défiler vers la droite">
+            <span class="rounded-btn -medium -gray-dark">
+                <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>            </span>
+        </button>
+    </div>
+
+</div></div></div>
+                
+    </article>
+    <script src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/api/view.php?post_id=151257"></script>
+
+            </div>    </main>
+
+    
+<footer class="nav-footer">
+    <div class="footer wrapper -large -padded">
+
+        <div class="left">
+            <div class="image-wrapper logo">
+                <svg class=""  width="438" height="186" viewBox="0 0 438 186" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-eclaireur"></use></svg>            </div>
+            <div class="nav-social">
+    <div class="title-7">Suivez la Fnac</div>
+    <ul>
+                    <li><a class="rounded-btn -medium" href="https://www.facebook.com/Fnac/" rel="nofollow noopener" target="_blank"
+                   title="Suivre la Fnac sur Facebook"><svg class=""  width="10" height="20" viewBox="0 0 10 20" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-facebook"></use></svg></a></li>
+                    <li><a class="rounded-btn -medium" href="https://twitter.com/fnac" rel="nofollow noopener" target="_blank"
+                   title="Suivre la Fnac sur Twitter"><svg class=""  width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-twitter"></use></svg></a></li>
+                    <li><a class="rounded-btn -medium" href="https://www.youtube.com/c/FNAC" rel="nofollow noopener" target="_blank"
+                   title="Suivre la Fnac sur Youtube"><svg class=""  width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-youtube"></use></svg></a></li>
+                    <li><a class="rounded-btn -medium" href="https://www.instagram.com/fnac_officiel/" rel="nofollow noopener" target="_blank"
+                   title="Suivre la Fnac sur Instagram"><svg class=""  width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#ico-instagram"></use></svg></a></li>
+            </ul>
+</div>
+
+
+
+
+
+
+
+            <a class="commun-btn-fnac fnac-com  -bkg" href="https://www.fnac.com" target="_blank" rel="noopener" title="Acheter sur Fnac.com">
+    <svg class=""  width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#logo-fnac"></use></svg>    <span class="medium">Acheter sur Fnac.com</span>
+</a>        </div>
+
+                    <nav class="navigation medium">
+                <div class="title-7">Nos contenus</div>
+                <ul id="menu-footer-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78254"><a href="https://leclaireur.fnac.com/les-flux-rss-leclaireur-fnac/">Nos flux RSS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-36816"><a href="https://leclaireur.fnac.com/articles/">Articles</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36822"><a href="https://leclaireur.fnac.com/tests/">Tests</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36818"><a href="https://leclaireur.fnac.com/dossiers/">Dossiers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36821"><a href="https://leclaireur.fnac.com/selections/">Sélections et guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36817"><a href="https://leclaireur.fnac.com/agenda/">Agenda</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36820"><a href="https://leclaireur.fnac.com/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36819"><a href="https://leclaireur.fnac.com/playlists/">Vidéos</a></li>
+</ul>            </nav>
+                    <nav class="navigation medium">
+                <div class="title-7">À propos</div>
+                <ul id="menu-footer-menu-2" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36826"><a href="https://leclaireur.fnac.com/conditions-generales-dutilisation/">Conditions générales d’utilisation</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36827"><a href="https://leclaireur.fnac.com/mentions-legales/">Mentions légales</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36828"><a href="https://www.fnac.com/Help/donneesPersonnelles#bl=footer">Données personnelles</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36829"><a href="https://www.fnac.com/Help/cookies#bl=footer">Cookies</a></li>
+</ul>            </nav>
+                    <nav class="navigation medium">
+                <div class="title-7">Contact</div>
+                <ul id="menu-footer-menu-3" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37301"><a href="https://leclaireur.fnac.com/qui-sommes-nous/">Qui sommes-nous ?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36830"><a href="https://leclaireur.fnac.com/besoin-daide/">Besoin d’aide ?</a></li>
+</ul>            </nav>
+        
+    </div>
+    <div class="footer-bottom-wrapper">
+        <div class="footer-bottom wrapper -padded -large small">
+            <div class="left">
+                &copy;Copyright 2023                <nav class="navigation">
+                                        <!-- Bouton Démarrer des paramètres OneTrust de cookies -->
+                    <button id="ot-sdk-btn" class="ot-sdk-show-settings">Paramètres des cookies</button>
+                    <!-- Bouton Terminer des paramètres OneTrust de cookies -->
+
+                </nav>
+            </div>
+            <div class="right">
+                Design by <a href="https://datagif.fr/" rel="nofollow noopener" target="_blank">Datagif</a> - Code by <a rel="nofollow noopener" target="_blank" href="https://www.fcinq.com/">FCINQ</a>
+            </div>
+        </div>
+    </div>
+
+</footer></div>
+
+
+<div class="gallery-popin" data-component="GalleryPopin" data-ref="GalleryPopin">
+
+    <div class="wrapper -padded -large">
+
+        <div class="glide">
+            <div class="glide__track" data-glide-el="track">
+                <div class="glide__slides">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrapper">
+            <div class="content">
+                
+            </div>
+            <div class="controls">
+                <button class="btn-prev">
+                    <span class="rounded-btn -medium -gray-dark">
+                        <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>                    </span>
+                </button>
+                <button class="btn-next">
+                    <span class="rounded-btn -medium -gray-dark">
+                        <svg class=""  width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#chevron-right"></use></svg>                    </span>
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+    <button class="btn-close">
+        <span class="rounded-btn -medium -gray-dark">
+            <svg class=""  width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#cross"></use></svg>        </span>
+    </button>
+
+</div><div class="tooltip small" data-component="Tooltip" data-ref="Tooltip"></div><script>
+    var digitalData = {
+        page:{
+            pageInfo:{
+                pageName: "PC tout-en-un ou tour PC : quel ordinateur de bureau choisir ?"            },
+            category:{
+                source: "comete",
+                articleType: "D\u00e9cryptage",
+                primaryCategory: "Nos conseils",
+                secondaryCategory: "Conseils high tech",
+                tertiaryCategory: "Informatique",
+                subCategory1: "court",
+                pageType: "article",
+                sourceSpecificity: "front",
+                isFromLaboFnac: false            }
+        }
+    };
+    </script>
+    <script type="text/template" id="banner-adherent">
+        <div class="adherent-banner" data-component="AdherentBanner">
+    <div class="wrapper -padded -medium container">
+        <div class="left-part">
+            <span class="title title-6">Ravis de vous revoir sur L'Éclaireur&nbsp;!</span>
+            <p class="sub-title medium">Vous pouvez désormais accéder à votre <a href="" rel="nofollow" class="link-space">espace adhérent Contact</a> dans le menu.</p>
+        </div>
+        <a class="big-link-space btn -adherent" href="" rel="nofollow">Accéder à l'espace adhérent</a>
+    </div>
+    <div class="full button-container">
+        <div class="wrapper -padded -large ">
+            <button class="close rounded-btn -medium"><svg class=""  width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><use href="#close"></use></svg></button>
+        </div>
+    </div>
+</div>    </script>
+
+    <script>
+        var tc_vars={
+            "isMobile":F.isMobile(),
+            "page": document.title
+        }
+    </script>
+
+
+            <!-- Début de la mention OneTrust de consentement aux cookies du domaine : fnac.com -->
+        <script src="https://cdn.cookielaw.org/consent/d253c363-9c5d-4e4a-bb06-0d7b438fddef/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="d253c363-9c5d-4e4a-bb06-0d7b438fddef" ></script>
+        <script type="text/javascript">
+            function OptanonWrapper() { }
+        </script>
+        <!-- Fin de la mention OneTrust de consentement aux cookies du domaine : fnac.com -->
+    
+	<script  src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/generated/63e4ffa617776_header.js"></script>
+            <script src="https://assets.adobedtm.com/05d433614f62/3f639c03806f/launch-b76075ced1ab.min.js" async></script>
+
+        <script src="https://www.fnac.com/cdn-storage/tagcommander/prd/tc_Fnac_com_7.js" defer></script>
+    
+    <div class="popin-overlay" data-component="Popin" data-ref="popin"></div>
+
+
+    <script> 
+
+    F.svgs = {"arrow_right":"<svg class=\"\"  width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><use href=\"#arrow-right\"><\/use><\/svg>","chevron_right":"<svg class=\"\"  width=\"8\" height=\"12\" viewBox=\"0 0 8 12\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><use href=\"#chevron-right\"><\/use><\/svg>","cross":"<svg class=\"\"  width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><use href=\"#cross\"><\/use><\/svg>"};
+
+        (function(m, d) {if(!m.csstransforms) {d.body.className += ' error--browser';d.write('<div id="error_browser_wrapper"><div id="error_browser">' +
+             '<div class="logo">ÉCLAIREUR FNAC</div>'+
+              '<div class="link_navigateur"><p>Ce site n\'est pas optimisé pour votre navigateur internet<br />Vous pouvez le mettre à jour ou utiliser un des navigateurs suivants&nbsp;:</p><ul><li><a target="_blank" href="http://www.google.com/intl/fr_fr/chrome/browser/"><img src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/navigateur/chrome.png" alt="Chrome"><br/>Chrome</a></li><li><a target="_blank" href="http://support.apple.com/kb/DL1531?viewlocale=fr_FR"><img src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/navigateur/safari.png" alt="Safari"><br/>Safari</a></li><li><a target="_blank" href="https://www.mozilla.org/fr/firefox/new/"><img src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/navigateur/firefox.png" alt="Firefox"><br/>Firefox</a></li><li><a target="_blank" href="http://windows.microsoft.com/fr-fr/internet-explorer/ie-11-worldwide-languages"><img src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/img/navigateur/ie.png" alt="IE"><br/>Internet Explorer</a></li></ul></div></div></div>');}})(Modernizr, document);
+    </script>
+        <svg id="svg-use" xmlns="http://www.w3.org/2000/svg" style="height: 0;width: 0;position: absolute;">
+            <defs>
+                <g id="ico-loupe"     >
+<path d="M15.5001 14H14.7101L14.4301 13.73C15.6301 12.33 16.2501 10.42 15.9101 8.39002C15.4401 5.61002 13.1201 3.39002 10.3201 3.05002C6.09014 2.53002 2.53014 6.09001 3.05014 10.32C3.39014 13.12 5.61014 15.44 8.39014 15.91C10.4201 16.25 12.3301 15.63 13.7301 14.43L14.0001 14.71V15.5L18.2501 19.75C18.6601 20.16 19.3301 20.16 19.7401 19.75C20.1501 19.34 20.1501 18.67 19.7401 18.26L15.5001 14ZM9.50014 14C7.01014 14 5.00014 11.99 5.00014 9.50002C5.00014 7.01002 7.01014 5.00002 9.50014 5.00002C11.9901 5.00002 14.0001 7.01002 14.0001 9.50002C14.0001 11.99 11.9901 14 9.50014 14Z" fill="currentColor"/>
+</g>
+<g id="logo-fnac"     >
+<g clip-path="url(#f0)">
+<path d="M0 27.4238L2.75835 9.67521L2.93283 8.55287L4.26205 0L30.6087 4.57625L29.736 10.192L29.1742 13.8066L26.3468 32L0 27.4238Z" fill="white"/>
+<path d="M17.6301 12.9244C17.6301 13.5505 18.2267 13.7042 18.8959 13.7042C19.5942 13.7042 20.8143 13.4456 20.8143 11.7963C20.465 12.0444 19.4924 12.0562 18.8523 12.1507C18.212 12.257 17.6301 12.31 17.6301 12.9244Z" fill="#EBB300"/>
+<path d="M8.84632 8.55287H9.71761V9.40354H9.75594C10.2159 8.71825 11.5498 8.40738 12.3164 8.40738C14.2458 8.40738 15.3828 9.3918 15.3828 10.904V14.6613H13.5685V11.2112C13.5685 10.2069 12.5465 9.69136 11.7031 9.69136C10.7193 9.69136 9.80709 10.2188 9.80709 11.4593V14.6613H7.99264V9.67521H5.20233V14.6613H3.51066V9.67521H2.75835L0 27.4238L26.3468 32L29.1742 13.8066C28.5457 14.4732 27.557 14.8267 26.3349 14.8267C24.1129 14.8267 22.6173 13.5271 22.6173 11.6958C22.6173 9.79349 23.9847 8.38756 26.3777 8.38756C27.9133 8.38756 29.3369 8.97849 29.736 10.192L30.6087 4.57625L4.26205 0L2.93283 8.55287H3.51066V8.0803C3.51066 7.00511 4.4664 5.75685 6.55155 5.75685C7.94173 5.75685 9.65892 6.1296 9.65892 7.99332H8.06439C8.06439 7.33064 7.04217 7.08215 6.55155 7.08215C5.85658 7.08215 5.20233 7.67854 5.20233 8.18653V8.55281H7.99264H8.84632V8.55287ZM22.5119 14.744H20.7383V14.0705C20.0836 14.6258 19.0411 14.8267 18.1247 14.8267C16.6989 14.8267 15.5641 14.2478 15.5641 12.9953C15.5641 11.6129 16.8444 11.282 18.1247 11.1403C19.3903 10.9867 20.5689 11.0222 20.5689 10.3368C20.5689 9.61619 19.9577 9.50977 19.2303 9.50977C18.4448 9.50977 17.9356 9.7697 17.8628 10.4313H15.7969C15.9133 8.86001 17.5218 8.38744 19.2095 8.38744C20.708 8.38744 22.5119 8.9076 22.5119 10.3727V14.744Z" fill="#EBB300"/>
+<path d="M26.3635 9.65173C25.0673 9.65173 24.6399 10.7387 24.6399 11.6367C24.6399 12.5109 25.053 13.5625 26.3207 13.5625C27.2608 13.5625 27.8021 13.0663 27.9303 12.3218H29.4049L29.6565 10.7032H27.859C27.7309 10.018 27.2038 9.65173 26.3635 9.65173Z" fill="#EBB300"/>
+</g>
+<defs>
+<clipPath id="f0">
+<rect width="30.6087" height="32" fill="white"/>
+</clipPath>
+</defs>
+</g>
+<g id="logo-eclaireur"     >
+<path d="M366.139 176.17C369.709 176.231 373.234 175.36 376.364 173.641C379.494 171.922 382.121 169.417 383.986 166.371L376.934 162.243C375.83 164.104 374.245 165.633 372.345 166.667C370.445 167.702 368.301 168.205 366.139 168.122C358.011 168.122 352.661 162.484 352.661 154.532C352.661 146.581 357.995 140.894 366.139 140.894C368.307 140.816 370.457 141.328 372.357 142.375C374.258 143.421 375.84 144.964 376.934 146.838L383.921 142.79C382.044 139.757 379.414 137.26 376.287 135.543C373.16 133.826 369.642 132.947 366.075 132.991C360.349 132.991 354.857 135.266 350.808 139.314C346.76 143.363 344.485 148.855 344.485 154.581C344.485 160.306 346.76 165.798 350.808 169.847C354.857 173.895 360.349 176.17 366.075 176.17H366.139ZM318.494 160.219L324.181 143.24L329.867 160.219H318.494ZM334.927 175.335H343.826L329.305 133.826H319.153L304.695 175.335H313.53L316.02 167.865H332.518L334.927 175.335ZM292.358 133.826V159.159L274.688 133.826H268.456V175.335H276.648V149.954L294.447 175.335H300.679V133.826H292.358ZM262.336 141.665V133.826H237.598V175.335H245.774V159.271H261.918V151.496H245.774V141.649H262.368L262.336 141.665Z" fill="white"/>
+<path d="M94.3258 25.6376L210 43.9662L205.711 71.1138H228.393L235.638 25.3484L75.6919 -3.8147e-06L70.4873 32.9144H93.1692L94.3258 25.6376Z" fill="#E9AA00"/>
+<path d="M195.8 133.714L191.688 159.641L76.0132 141.312L77.218 133.714H54.52L50.3756 159.946L210.321 185.278L218.482 133.714H195.8Z" fill="#E9AA00"/>
+<path d="M423.261 87.4344V78.5513H407.406V126.292H423.261V106.534C423.261 97.0726 431.293 94.2133 437.59 95.1611V77.5874C431.165 77.5874 425.173 80.9287 423.261 87.4344ZM382.315 78.5513V103.948C382.315 109.683 379.359 112.638 374.476 112.638C370.364 112.638 367.311 110.245 367.311 105.088V78.5513H351.457V107.112C351.457 120.863 359.199 127.642 369.03 127.642C374.958 127.642 379.632 125.345 382.299 121.522V126.341H398.154V78.5513H382.315ZM311.522 97.2654C312.071 95.241 313.304 93.469 315.011 92.2507C316.718 91.0325 318.795 90.4431 320.888 90.5829C322.931 90.4635 324.951 91.0679 326.593 92.2899C328.236 93.512 329.395 95.2737 329.867 97.2654H311.522ZM311.715 108.253H344.662C345.134 106.313 345.372 104.323 345.369 102.325C345.369 87.9967 335.056 77.2019 320.727 77.2019C317.371 77.0931 314.027 77.6724 310.903 78.9041C307.779 80.1358 304.94 81.9939 302.561 84.3639C300.182 86.7339 298.313 89.5658 297.07 92.6852C295.826 95.8045 295.234 99.1454 295.33 102.502C295.33 116.638 305.547 127.626 322.076 127.626C330.574 127.626 337.835 124.766 342.606 118.743L331.152 110.711C329.989 111.814 328.62 112.676 327.124 113.25C325.627 113.823 324.032 114.096 322.43 114.052C317.819 114.052 313.627 112.815 311.715 108.237V108.253ZM278.479 87.3541V78.5513H262.625V126.292H278.479V106.534C278.479 97.0726 286.511 94.2133 292.808 95.1611V77.5874C286.383 77.5874 280.391 80.9287 278.479 87.4344V87.3541ZM237.598 126.292H253.452V78.5513H237.598V126.292ZM245.533 74.6317C247.333 74.6222 249.091 74.0802 250.584 73.074C252.077 72.0677 253.239 70.6423 253.923 68.977C254.608 67.3118 254.785 65.4812 254.431 63.7158C254.078 61.9504 253.21 60.3291 251.936 59.0559C250.663 57.7828 249.042 56.9148 247.277 56.5612C245.511 56.2076 243.681 56.3843 242.015 57.0689C240.35 57.7535 238.925 58.9154 237.918 60.4085C236.912 61.9015 236.37 63.6589 236.361 65.4594C236.394 67.8817 237.371 70.1954 239.084 71.9084C240.797 73.6214 243.111 74.5985 245.533 74.6317ZM202.563 112.831C196.635 112.831 192.539 108.622 192.539 102.422C192.539 96.2213 196.651 92.0126 202.563 92.0126C208.474 92.0126 212.586 96.2213 212.586 102.422C212.586 108.622 208.474 112.831 202.563 112.831ZM212.586 78.5513V82.9366C209.534 79.3062 205.133 77.2019 199.029 77.2019C186.178 77.2019 176.54 88.0931 176.54 102.406C176.54 116.718 186.178 127.626 199.029 127.626C205.149 127.626 209.534 125.521 212.586 121.891V126.276H228.441V78.5513H212.586ZM153.938 126.292H169.793V56.5762H153.938V126.292ZM127.112 127.626C131.525 127.714 135.88 126.606 139.714 124.42C143.549 122.234 146.721 119.051 148.894 115.209L135.336 107.369C134.538 108.866 133.338 110.111 131.87 110.962C130.403 111.814 128.727 112.238 127.031 112.189C125.332 112.19 123.661 111.747 122.186 110.903C120.71 110.059 119.482 108.843 118.622 107.377C117.763 105.911 117.302 104.245 117.286 102.545C117.27 100.845 117.7 99.1711 118.532 97.6889C119.364 96.2067 120.569 94.9682 122.028 94.0966C123.488 93.225 125.15 92.7507 126.849 92.7209C128.549 92.6911 130.226 93.1067 131.715 93.9266C133.204 94.7464 134.453 95.9418 135.336 97.3939L148.894 89.5549C146.047 84.8053 141.726 81.1164 136.589 79.0499C131.451 76.9834 125.779 76.6526 120.436 78.1079C115.094 79.5632 110.373 82.7248 106.993 87.1113C103.613 91.4977 101.76 96.8685 101.715 102.406C101.658 105.748 102.277 109.068 103.535 112.166C104.793 115.263 106.665 118.074 109.037 120.43C111.409 122.785 114.233 124.637 117.339 125.874C120.445 127.11 123.769 127.706 127.112 127.626ZM71.6278 110.245V100.414H94.647V84.6554H71.6278V75.3867H97.0245V59.4355H54.6164V126.292H97.5064V110.229L71.6278 110.245ZM92.5106 40.3519H74.0052L66.359 54.1988H81.4427L92.5106 40.3519ZM45.3638 59.4355H27.8865L24.5453 89.4263H37.3962L45.3638 59.4355ZM0 126.292H15.8548V56.5762H0V126.292Z" fill="white"/>
+</g>
+<g id="arrow-right"     >
+    <path d="M1.50002 10.0715H13.4679L8.23931 15.3001C7.82145 15.7179 7.82145 16.4036 8.23931 16.8215C8.65716 17.2393 9.33216 17.2393 9.75002 16.8215L16.8107 9.76077C17.2286 9.34291 17.2286 8.66791 16.8107 8.25006L9.76073 1.17863C9.34288 0.76077 8.66788 0.76077 8.25002 1.17863C7.83216 1.59648 7.83216 2.27148 8.25002 2.68934L13.4679 7.92863H1.50002C0.910732 7.92863 0.428589 8.41077 0.428589 9.00006C0.428589 9.58934 0.910732 10.0715 1.50002 10.0715Z" fill="currentColor"/>
+</g>
+<g id="cross"     >
+<path d="M0.709726 0.70003C0.319726 1.09003 0.319726 1.72003 0.709726 2.11003L5.58973 7.00003L0.699726 11.89C0.309727 12.28 0.309727 12.91 0.699727 13.3C1.08973 13.69 1.71973 13.69 2.10973 13.3L6.99973 8.41003L11.8897 13.3C12.2797 13.69 12.9097 13.69 13.2997 13.3C13.6897 12.91 13.6897 12.28 13.2997 11.89L8.40973 7.00003L13.2997 2.11003C13.6897 1.72003 13.6897 1.09003 13.2997 0.70003C12.9097 0.310029 12.2797 0.310029 11.8897 0.70003L6.99973 5.59003L2.10973 0.70003C1.72973 0.32003 1.08973 0.32003 0.709726 0.70003Z" fill="currentColor"/>
+</g><g id="ico-rss"     >
+    <path d="M2.18 15.9999C3.38398 15.9999 4.36 15.0239 4.36 13.8199C4.36 12.6159 3.38398 11.6399 2.18 11.6399C0.976019 11.6399 0 12.6159 0 13.8199C0 15.0239 0.976019 15.9999 2.18 15.9999Z" fill="currentColor"/>
+    <path d="M0 0.439941V3.26994C7.03 3.26994 12.73 8.96994 12.73 15.9999H15.56C15.56 7.40994 8.59 0.439941 0 0.439941ZM0 6.09994V8.92994C3.9 8.92994 7.07 12.0999 7.07 15.9999H9.9C9.9 10.5299 5.47 6.09994 0 6.09994Z" fill="currentColor"/>
+</g>
+<g id="ico-facebook"     >
+    <path d="M3.02758 11.2035V19.6846H6.56759V11.2035H9.20683L9.70929 7.69523H6.56759V5.41725C6.56759 4.45761 7.00655 3.52195 8.41342 3.52195H9.84221V0.536839C9.84221 0.536839 8.54588 0.299988 7.30619 0.299988C4.71765 0.299988 3.02758 1.97997 3.02758 5.02135V7.69523H0.149902V11.2035H3.02758Z" fill="currentColor"/>
+</g>
+<g id="ico-twitter"     >
+    <path d="M17.8597 4.90798C17.8597 5.0935 17.8597 5.27902 17.8597 5.43804C17.8597 10.9242 13.7753 17.2585 6.33019 17.2585C4.02945 17.2585 1.90967 16.5694 0.100098 15.4032C0.410309 15.4297 0.746372 15.4562 1.05658 15.4562C2.94371 15.4562 4.70157 14.7937 6.09753 13.6805C4.31381 13.654 2.81445 12.4349 2.32328 10.7917C2.58179 10.8447 2.81445 10.8712 3.09881 10.8712C3.46073 10.8712 3.82264 10.8182 4.1587 10.7122C2.29743 10.3411 0.901478 8.67143 0.901478 6.65719C0.901478 6.63068 0.901478 6.63068 0.901478 6.60418C1.44435 6.92222 2.06477 7.10774 2.7369 7.13424C1.65116 6.39216 0.927329 5.12 0.927329 3.66233C0.927329 2.89374 1.13414 2.17815 1.4702 1.56858C3.46073 4.08638 6.45944 5.72958 9.82007 5.9151C9.74251 5.62356 9.71666 5.27902 9.71666 4.96099C9.71666 2.65521 11.5262 0.799988 13.7753 0.799988C14.9386 0.799988 15.9985 1.30355 16.7223 2.09864C17.6529 1.91312 18.506 1.56858 19.3074 1.09152C18.9972 2.07214 18.3509 2.86723 17.5237 3.3973C18.3509 3.29129 19.1264 3.07926 19.8503 2.73472C19.3332 3.58282 18.6611 4.32491 17.8597 4.90798Z" fill="currentColor"/>
+</g>
+<g id="ico-linkedin"     >
+<path d="M15.6568 9.55428V15.2692H12.3435V9.93728C12.3435 8.59849 11.8651 7.68422 10.6654 7.68422C9.7499 7.68422 9.20603 8.29974 8.96585 8.89575C8.87862 9.10875 8.85613 9.40453 8.85613 9.70328V15.269H5.54251C5.54251 15.269 5.58699 6.23843 5.54251 5.30365H8.85638V6.71583C8.84971 6.72695 8.84032 6.73782 8.83439 6.74845H8.85638V6.71583C9.29671 6.03828 10.082 5.06964 11.8426 5.06964C14.0225 5.06964 15.6568 6.49393 15.6568 9.55428ZM2.07617 0.5C0.942721 0.5 0.201172 1.24402 0.201172 2.22155C0.201172 3.17833 0.921224 3.94385 2.03268 3.94385H2.05418C3.20987 3.94385 3.92844 3.17833 3.92844 2.22155C3.90645 1.24402 3.20987 0.5 2.07617 0.5ZM0.398111 15.2692H3.7105V5.30365H0.398111V15.2692Z" fill="currentColor"/>
+</g>
+<g id="ico-link"     >
+<path d="M14.5647 6.96103C14.796 6.7296 14.9796 6.45487 15.1048 6.15251C15.23 5.85015 15.2944 5.52609 15.2944 5.19883C15.2944 4.87157 15.2299 4.54753 15.1046 4.24519C14.9793 3.94285 14.7958 3.66815 14.5643 3.43677C14.3329 3.20538 14.0582 3.02184 13.7558 2.89664C13.4535 2.77143 13.1294 2.707 12.8021 2.70703C12.4749 2.70706 12.1508 2.77155 11.8485 2.89681C11.5462 3.02207 11.2715 3.20566 11.0401 3.43709L8.467 6.0099C8.00034 6.47751 7.73826 7.11116 7.73826 7.77179C7.73826 8.43242 8.00034 9.06606 8.467 9.53367C8.62707 9.69374 8.71699 9.91083 8.717 10.1372C8.717 10.3636 8.62707 10.5807 8.46701 10.7407C8.30695 10.9008 8.08985 10.9907 7.86349 10.9907C7.63712 10.9907 7.42003 10.9008 7.25996 10.7407C6.47363 9.95274 6.03201 8.885 6.03201 7.77179C6.03201 6.65858 6.47363 5.59083 7.25996 4.80284L9.83302 2.23003C10.6205 1.44251 11.6885 1.00006 12.8021 1C13.3536 0.999972 13.8996 1.10856 14.4091 1.31955C14.9185 1.53055 15.3815 1.83982 15.7714 2.22972C16.1613 2.61962 16.4707 3.08251 16.6817 3.59195C16.8928 4.10139 17.0014 4.64742 17.0014 5.19884C17.0015 5.75027 16.8929 6.29631 16.6819 6.80577C16.4709 7.31524 16.1616 7.77815 15.7717 8.16809L14.4972 9.44234C14.3371 9.60219 14.1201 9.69193 13.8938 9.69183C13.6676 9.69174 13.4506 9.60182 13.2906 9.44184C13.1307 9.28186 13.0407 9.06491 13.0407 8.83866C13.0406 8.61242 13.1303 8.39539 13.2901 8.23528L14.5647 6.96103ZM2.22792 15.7723C3.01612 16.5585 4.08399 17 5.19729 17C6.31059 17 7.37843 16.5584 8.16659 15.7721L10.7396 13.1995C11.1295 12.8096 11.4388 12.3468 11.6499 11.8373C11.8609 11.3279 11.9695 10.7819 11.9695 10.2305C11.9695 9.67912 11.8609 9.13312 11.6499 8.62371C11.4388 8.11429 11.1295 7.65144 10.7396 7.26158C10.5795 7.10174 10.3624 7.012 10.1362 7.01209C9.90994 7.01219 9.69299 7.10211 9.53301 7.26209C9.37303 7.42207 9.28312 7.63902 9.28303 7.86526C9.28294 8.09151 9.37268 8.30853 9.53252 8.46864C9.76394 8.70001 9.94751 8.9747 10.0728 9.27702C10.198 9.57934 10.2625 9.90338 10.2625 10.2306C10.2625 10.5579 10.198 10.8819 10.0728 11.1842C9.94751 11.4865 9.76394 11.7612 9.53252 11.9926L6.95954 14.5652C6.72816 14.7966 6.45346 14.9802 6.15112 15.1055C5.84879 15.2308 5.52474 15.2952 5.19748 15.2953C4.87022 15.2953 4.54616 15.2309 4.2438 15.1057C3.94145 14.9805 3.66671 14.7969 3.43528 14.5655C2.96789 14.0982 2.70528 13.4644 2.70522 12.8035C2.70519 12.4762 2.76962 12.1522 2.89483 11.8498C3.02004 11.5474 3.20357 11.2727 3.43496 11.0413L4.70938 9.76703C4.86923 9.60692 4.95897 9.38989 4.95888 9.16365C4.95878 8.9374 4.86887 8.72045 4.70889 8.56047C4.54891 8.40049 4.33196 8.31057 4.10572 8.31048C3.87947 8.31039 3.66245 8.40012 3.50234 8.55997L2.22792 9.83422C1.4416 10.6223 1 11.69 1 12.8033C1 13.9165 1.4416 14.9843 2.22792 15.7723Z" fill="currentColor" stroke="currentColor" stroke-width="0.3"/>
+</g>
+<g id="ico-share"     >
+<path d="M15 14.08C14.24 14.08 13.56 14.38 13.04 14.85L5.91 10.7C5.96 10.47 6 10.24 6 10C6 9.76 5.96 9.53 5.91 9.3L12.96 5.19C13.5 5.69 14.21 6 15 6C16.66 6 18 4.66 18 3C18 1.34 16.66 0 15 0C13.34 0 12 1.34 12 3C12 3.24 12.04 3.47 12.09 3.7L5.04 7.81C4.5 7.31 3.79 7 3 7C1.34 7 0 8.34 0 10C0 11.66 1.34 13 3 13C3.79 13 4.5 12.69 5.04 12.19L12.16 16.35C12.11 16.56 12.08 16.78 12.08 17C12.08 18.61 13.39 19.92 15 19.92C16.61 19.92 17.92 18.61 17.92 17C17.92 15.39 16.61 14.08 15 14.08Z" fill="currentColor"/>
+</g>
+<g id="ico-check"  >
+    <path fill="currentColor" d="M16 0a16 16 0 100 32 16 16 0 000-32zm-1.7 23.02l-6.78-6.78 2.26-2.26 4.53 4.52 9.05-9.05 2.26 2.26L14.3 23.02z" />
+</g><g id="chevron-right"     >
+<path d="M1.29006 2.12002L5.17006 6.00002L1.29006 9.88002C0.900059 10.27 0.900059 10.9 1.29006 11.29C1.68006 11.68 2.31006 11.68 2.70006 11.29L7.29006 6.70002C7.68006 6.31002 7.68006 5.68002 7.29006 5.29002L2.70006 0.700021C2.31006 0.31002 1.68006 0.31002 1.29006 0.700021C0.910058 1.09002 0.900058 1.73002 1.29006 2.12002Z" fill="currentColor"/>
+</g><g id="ico-youtube"     >
+    <path d="M17.1737 0H4.7231C2.28032 0 0.300049 2.06203 0.300049 4.60567V11.0866C0.300049 13.6303 2.28032 15.6923 4.7231 15.6923H17.1737C19.6165 15.6923 21.5968 13.6303 21.5968 11.0866V4.60567C21.5968 2.06203 19.6165 0 17.1737 0ZM14.1824 8.16147L8.35887 11.0536C8.2037 11.1307 8.02445 11.0129 8.02445 10.8339V4.8688C8.02445 4.68726 8.20841 4.56959 8.36391 4.65166L14.1875 7.72459C14.3606 7.81594 14.3576 8.0745 14.1824 8.16147Z" fill="currentColor"/>
+</g>
+<g id="ico-instagram"     >
+    <path d="M14.1149 0.700012H5.82519C3.02192 0.700012 0.739258 2.98268 0.739258 5.78595V14.0756C0.739258 16.8789 3.02192 19.1615 5.82519 19.1615H14.1149C16.9181 19.1615 19.2008 16.8789 19.2008 14.0756V5.78595C19.2008 2.98268 16.9181 0.700012 14.1149 0.700012ZM17.7191 14.0756C17.7191 16.078 16.0772 17.7199 14.0748 17.7199H5.82519C3.82286 17.7199 2.18094 16.078 2.18094 14.0756V5.82599C2.18094 3.82366 3.82286 2.18174 5.82519 2.18174H14.0748C16.0772 2.18174 17.7191 3.82366 17.7191 5.82599V14.0756Z" fill="currentColor"/>
+    <path d="M9.94991 5.06393C7.26678 5.06393 5.06421 7.2665 5.06421 9.94963C5.06421 12.6328 7.26678 14.8353 9.94991 14.8353C12.633 14.8353 14.8356 12.6328 14.8356 9.94963C14.8356 7.2665 12.633 5.06393 9.94991 5.06393ZM9.94991 13.1133C8.18785 13.1133 6.78622 11.6716 6.78622 9.94963C6.78622 8.18758 8.2279 6.78594 9.94991 6.78594C11.6719 6.78594 13.1136 8.22763 13.1136 9.94963C13.1536 11.7117 11.712 13.1133 9.94991 13.1133Z" fill="currentColor"/>
+    <path d="M16.0761 4.90502C16.0761 5.50572 15.5955 5.98628 14.9948 5.98628C14.3941 5.98628 13.9136 5.50572 13.9136 4.90502C13.9136 4.30432 14.3941 3.82376 14.9948 3.82376C15.5955 3.82376 16.0761 4.30432 16.0761 4.90502Z" fill="currentColor"/>
+</g><g id="close"     >
+    <path d="M0.710214 0.7C0.320215 1.09 0.320215 1.72 0.710215 2.11L5.59021 7L0.700215 11.89C0.310215 12.28 0.310215 12.91 0.700215 13.3C1.09021 13.69 1.72022 13.69 2.11022 13.3L7.00021 8.41L11.8902 13.3C12.2802 13.69 12.9102 13.69 13.3002 13.3C13.6902 12.91 13.6902 12.28 13.3002 11.89L8.41021 7L13.3002 2.11C13.6902 1.72 13.6902 1.09 13.3002 0.699999C12.9102 0.309999 12.2802 0.309999 11.8902 0.699999L7.00021 5.59L2.11021 0.7C1.73021 0.32 1.09021 0.32 0.710214 0.7Z" fill="currentColor"/>
+</g>
+            </defs>
+        </svg>
+        <script async defer src="https://leclaireur.fnac.com/wp-content/themes/labo_fnac/generated/63e4ffa617776_index.js"></script>    </body>
+</html>
+
+<!-- Dynamic page generated in 0.243 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-02-13 17:27:29 -->
+
+<!-- Compression = gzip -->
