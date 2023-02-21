@@ -11,20 +11,19 @@ align-items: center;
 box-shadow: 1px 1px 1px #efefef;
 }
 .logo{
-    margin: 0 15px; 
-    font-size: 80px;
+    padding: 0px;
+    border: none;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: var(--font-neue);
+    font-size: 62.5%;
+    transition: all 0.3s ease-in-out 0s;
 }
+
 .logo:hover{
     transform: scale(1.5);
 }
-/* .navigation{
-    flex: 90%;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-   
-} */
+
     .header li{
         display: inline-block;
         align-items: center;
@@ -44,21 +43,34 @@ box-shadow: 1px 1px 1px #efefef;
         justify-content: center;
         align-items: center;
         margin:0 25px;
+        font-family: var(--font-neue);
+        font-weight: 400;
+        font-size: 1.6rem;
+        line-height: 2.4rem;
+        text-transform: uppercase;
+         display: bloc
     }
 
     .header .mail {
-        padding: 10px;
-         border-radius: 25px;
-        text-align: center;
+         align-items: center;
         background-color: #0CA34D;
         color: white;
         filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
         border: none;
         font-family: 'Inter';
         font-weight: 500;
-        font-size: 16px;
-         text-align: center;    
-    }
+        text-align: center; 
+        position: relative;
+        z-index: 2;
+        font-size: 1.6rem;
+        line-height: 150%;
+        background: var(--green);
+       padding: 12px;
+       border-radius: 50px;
+}
+
+
+     
     .header .mail:hover{
         transform: scale(1.1);
     }
