@@ -1,0 +1,42 @@
+/* .acceuil{
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (max-width: 1400px) {
+    .contenair{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+}
+@media screen and (max-width: 1024px) {
+  
+}
+@media screen and (max-width: 45Opx) {
+   
+}
+.acceuil{
+    display: flex;
+    flex-direction: column;
+} */
+.acceuil{
+    display: flex;
+    flex-direction: column;
+}
+.contenair{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+.name{
+    width: 70%;
+    font-size: 80px;
+    align-items: center;
+}
+.description{
+align-items: center;
+margin-top: 20%;
+}
+
+
