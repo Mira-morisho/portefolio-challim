@@ -1,5 +1,7 @@
 import React from "react";
 import "../../styles/Header.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 export default function () {
   return (
@@ -27,6 +29,7 @@ export default function () {
             <a href="#conctat">CONTACT</a>
           </li>
         </ul>
+        <FontAwesomeIcon icon={faBars} className="icone" />
       </nav>
     </div>
   );
