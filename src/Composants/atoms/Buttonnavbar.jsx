@@ -6,7 +6,10 @@ export default function Buttonnavbar() {
   return (
     <div>
       <button type="submit" className="mail">
-        <a href="mailto:challim@kinshasadigital.com?subject=feedback">
+        <a
+          style={{ color: "white" }}
+          href="mailto:challim@kinshasadigital.com?subject=feedback"
+        >
           challim@kinshadadigital.com
         </a>
       </button>
