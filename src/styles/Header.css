@@ -6,7 +6,7 @@ body{
 .header{
 display: flex;
 justify-content: space-between;
-padding: 0 5%;
+padding: 0 6%;
 align-items: center;
 box-shadow: 1px 1px 1px #efefef;
 }
@@ -87,6 +87,12 @@ font-size: 30px;
      @media screen and (max-width: 800px) {
    
     } 
+    @media (max-width: 600px) {
+        .hamburger{
+          display: block;
+          cursor: pointer;
+        }
+    }
     @media screen and (max-width: 450px) {
         /* .logo{
             

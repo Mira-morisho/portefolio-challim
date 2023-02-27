@@ -13,13 +13,13 @@ export default function () {
     <>
       <div className="header">
         <Logo />
-        {/* <div className={drawMenu ? "navigation" : " navigation hiddenMenu"}> */}
-        <Navbar />
-        <Buttonnavbar />
-        {/* </div>
+        <div className={drawMenu ? "navigation" : " navigation hiddenMenu"}>
+          <Navbar />
+        </div>
         <span className="hamburger">
           <i class="fa-solid fa-bars" onClick={() => toggleMenu()}></i>
-        </span> */}
+        </span>
+        <Buttonnavbar />
       </div>
     </>
   );
