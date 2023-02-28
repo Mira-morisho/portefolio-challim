@@ -11,15 +11,18 @@ export default function () {
   };
   return (
     <>
-      <div className="header">
-        <Logo />
-        <div className={drawMenu ? "navigation" : " navigation hiddenMenu"}>
-          <Navbar />
+      <div>
+        <div className="header">
+          <Logo />
+          <div className={drawMenu ? "navigation" : " navigation hiddenMenu"}>
+            <Navbar />
+          </div>
+          <span className="hamburger" onClick={() => toggleMenu()}>
+            <i className="fa-solid fa-bars">☰</i>
+          </span>
+          <Buttonnavbar />
         </div>
-        <span className="hamburger">
-          <i class="fa-solid fa-bars" onClick={() => toggleMenu()}></i>
-        </span>
-        <Buttonnavbar />
+        <div></div>
       </div>
     </>
   );
