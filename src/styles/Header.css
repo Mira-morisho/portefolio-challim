@@ -114,6 +114,7 @@ font-size: 30px;
         }
         .header button{
             border-radius: 20px;
+            font-size: 1rem;
         }
         .navigation{
             flex-direction: column;
