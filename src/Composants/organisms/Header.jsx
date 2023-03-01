@@ -16,11 +16,11 @@ export default function () {
           <Logo />
           <div className={drawMenu ? "navigation" : " navigation hiddenMenu"}>
             <Navbar />
+            <Buttonnavbar />
           </div>
           <span className="hamburger" onClick={() => toggleMenu()}>
-            <i className="fa-solid fa-bars">☰</i>
+            <i className="fa-solid fa-bars"> ☰ </i>
           </span>
-          <Buttonnavbar />
         </div>
         <div></div>
       </div>
