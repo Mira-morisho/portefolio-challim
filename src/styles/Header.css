@@ -89,12 +89,10 @@ border: 1px solid rgb(240, 229, 229);
     }
     @media (max-width: 800px) {
         .hamburger{
-          display: block;
+          display: none;
           cursor: pointer;
         }
-        /* .navigation{
-            display: none;
-        } */
+         
     }
     @media screen and (max-width: 450px) {
     
