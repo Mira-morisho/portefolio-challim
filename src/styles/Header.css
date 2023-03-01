@@ -73,10 +73,9 @@ box-shadow: 1px 1px 1px #efefef;
     }
 .hamburger{
 display: none ;
-/* position: absolute; */
-/* top: 30px;
-right: 10px; */
-font-size: 30px;
+font-size: 20px;
+color: #0CA34D;
+border: 1px solid rgb(240, 229, 229);
 }
 .hiddenMenu{
     display: none;
