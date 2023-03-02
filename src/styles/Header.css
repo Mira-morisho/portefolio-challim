@@ -10,6 +10,7 @@ padding: 0 6%;
 align-items: center;
 box-shadow: 1px 1px 1px #efefef;
 }
+
 .logo{
     padding: 0px;
     border: none;
@@ -21,7 +22,7 @@ box-shadow: 1px 1px 1px #efefef;
 }
 
 .logo:hover{
-    transform: scale(1.5);
+    transform: scale(1.9);
 }
 
     .header li{
@@ -40,9 +41,9 @@ box-shadow: 1px 1px 1px #efefef;
     .navbar{
          display: flex;
         flex-direction: row;
-        justify-content: center;
+        /* justify-content: center; */
         align-items: center;
-        margin:0 25px;
+        /* margin:0 25px; */
         font-family: var(--font-neue);
         font-weight: 400;
         font-size: 1.6rem;
@@ -64,7 +65,7 @@ box-shadow: 1px 1px 1px #efefef;
         line-height: 150%;
         background: var(--green);
        padding: 12px;
-       margin-top: 20px;
+       margin-top: 25px;
        border-radius: 50px;
        background-color: #0CA34D;
 }
@@ -73,7 +74,7 @@ box-shadow: 1px 1px 1px #efefef;
     }
 .hamburger{
 display: none ;
-font-size: 20px;
+font-size: 30px;
 color: #0CA34D;
 border: 1px solid rgb(240, 229, 229);
 }
@@ -90,26 +91,27 @@ border: 1px solid rgb(240, 229, 229);
         
         }
     }
-    @media screen and (max-width: 900px) {
-        .header{
-            padding: 0 4%;
-        }
-        .header button {
-           font-size: 1.1rem;
-           line-height: 120%;
-           padding: 12px;
-           margin-top: 15px;
-           border-radius: 50px;
-           background-color: #0CA34D;
-   }
-   .navbar{
-   margin:0 25px;;
-   font-weight: 400;
-   font-size: 1em;
-   line-height: 2.2rem;
-
-}
+    @media screen and (max-width: 960px) {
+        .header li{
+            padding: 0.6rem;
+            font-size: 13px; 
+        } 
     }
+    @media screen and (max-width: 860px) {
+        .header li{
+            padding: 0.5rem;
+            font-size: 11px; 
+        } 
+        .header button {
+
+           font-weight: 400;
+           line-height: 150%;
+          padding: 12px;
+          margin-top: 20px;
+          
+   }
+    }
+
 
     @media screen and (max-width: 800px) {
     
@@ -141,5 +143,8 @@ border: 1px solid rgb(240, 229, 229);
         }
         .hiddenMenu{
             display: none;
+        }
+        .navbar{
+            margin:64px 0px 0px;
         }
     } 

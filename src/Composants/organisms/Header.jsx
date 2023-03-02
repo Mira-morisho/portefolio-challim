@@ -3,6 +3,7 @@ import Logo from "../atoms/Logo";
 import Navbar from "../molecules/Navbar";
 import Buttonnavbar from "../atoms/Buttonnavbar";
 import "../../styles/Header.css";
+import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 
 export default function () {
   const [drawMenu, setDrawMenu] = useState(false);
@@ -19,10 +20,9 @@ export default function () {
             <Buttonnavbar />
           </div>
           <span className="hamburger" onClick={() => toggleMenu()}>
-            <i className="fa-solid fa-bars"> ☰ </i>
+            {drawMenu ? <AiOutlineClose /> : <AiOutlineMenu />}
           </span>
         </div>
-        <div></div>
       </div>
     </>
   );
