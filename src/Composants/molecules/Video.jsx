@@ -8,7 +8,7 @@ export default function Video() {
     <div className="bloc">
       <ReactPlayer
         url={internalSource}
-        width="100%"
+        width="1340px"
         height="100%"
         controls={true}
         className="video"
