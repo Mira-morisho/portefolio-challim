@@ -65,7 +65,7 @@
     }
     .description{
         text-align:left;
-        margin-left: 100px;  
+        margin-left: 1rem;  
          
     }
     
@@ -77,7 +77,7 @@
     .name{
         font-size: 5.rem;
         line-height: 4.7rem;
-        margin-left: 3rem;
+        margin-left: 1rem;
     }
     .description{
         margin-top: 0px; 
