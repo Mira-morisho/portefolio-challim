@@ -2,7 +2,7 @@
     display: flex;
     max-width: 1340px;
     margin: 0px auto;
-    padding-top: 100px;
+
 }
 .name{
 
@@ -41,6 +41,19 @@
     }
     
 }
+@media screen and (max-width: 1000px) {
+    .contenair{
+        margin-top: 38px;
+    } 
+    .name{
+        font-size: 4.9rem;
+        line-height: 4.5rem;
+    }
+    .description{
+        text-align:left 20px; 
+
+    }
+}
 
 @media screen and (max-width: 800px) {
     .contenair{
@@ -56,5 +69,22 @@
          
     }
     
+}@media screen and (max-width: 780px) {
+    .contenair{
+       display: flex;
+       flex-direction: column;
+    } 
+    .name{
+        font-size: 4.5rem;
+        line-height: 4.7rem;
+        margin-left: 3rem;
+    }
+    .description{
+        margin-top: 0px; 
+         
+         
+    }
+    
 }
+
 
