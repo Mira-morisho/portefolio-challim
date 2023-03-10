@@ -75,9 +75,10 @@
        flex-direction: column;
     } 
     .name{
-        font-size: 5.rem;
+        font-size: 5rem;
         line-height: 4.7rem;
-        margin-left: 3rem;
+        margin-left: 2rem;
+       
     }
     .description{
         margin-top: 0px; 
