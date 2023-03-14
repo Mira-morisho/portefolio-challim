@@ -22,8 +22,9 @@
     font-size: 16px;
     text-align:left;
     max-width: 380px;
-    margin-left: 0px;
-   margin-top: 200px;   
+    margin-left: 10px;
+   margin-top: 200px; 
+   text-align: center;  
 }
 @media screen and (max-width: 1024px) {
     .contenair{
@@ -65,7 +66,7 @@
     }
     .description{
         text-align:left;
-        margin-left: 100px;  
+        margin-left: 1rem;  
          
     }
     
@@ -77,15 +78,18 @@
     .name{
         font-size: 5rem;
         line-height: 4.7rem;
+<<<<<<< HEAD
         margin-left: 2rem;
        
+=======
+        margin-left: 1rem;
+>>>>>>> develop
     }
     .description{
         margin-top: 0px; 
-         
-         
+        
     }
-    
 }
+
 
 
