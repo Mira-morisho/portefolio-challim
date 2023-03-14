@@ -11,25 +11,19 @@ export default function () {
           <li>
             <a href="#index.html">ACCEUIL</a>
           </li>
-
           <li>
-            {" "}
             <a href="#serverices">SERVICE</a>
           </li>
           <li>
-            {" "}
             <a href="#skills">COMPETANCE</a>
           </li>
           <li>
-            {" "}
             <a href="#portefolio">PORTEFOLIO</a>
           </li>
           <li>
-            {" "}
             <a href="#conctat">CONTACT</a>
           </li>
         </ul>
-        {/* <FontAwesomeIcon icon={faBars} className="hamburger" /> */}
       </nav>
     </div>
   );
