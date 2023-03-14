@@ -154,4 +154,15 @@ border: 1px solid rgb(240, 229, 229);
             margin:64px 0px 0px;
         }
     } 
+    @media screen and (max-width: 315px) {
+        .header button{
+            border-radius: 15px;
+         font-size: 0.5rem;
+        }
+        .logo{
+        
+            font-size: 40px;
+            
+        }
+        }
    
