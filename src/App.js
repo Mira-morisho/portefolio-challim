@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./Composants/organisms/Header";
 import Acceuil from "./Composants/organisms/Acceuil";
 import Video from "./Composants/molecules/Video";
+import ProfilChallim from "./Composants/organisms/ProfilChallim";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Acceuil />
       <Video />
+      <ProfilChallim />
     </div>
   );
 }
