@@ -4,7 +4,7 @@ import "../../styles/Acceuil.css";
 export default function () {
   return (
     <div>
-      <div className="identite">
+      <div className="contenair">
         <h1 className="name"> CHALLIM MUSOMBO </h1>
         <p className="description">
           A la recherche d'un nouveau challenge, je peux apporter des réponses
