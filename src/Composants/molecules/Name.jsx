@@ -7,8 +7,8 @@ export default function () {
       <div className="contenair">
         <h1 className="name"> CHALLIM MUSOMBO </h1>
         <p className="description">
-          I create engaging user experience design for brands and startups by
-          balancing the business needs and the user's needs.
+          A la recherche d'un nouveau challenge, je peux apporter des réponses
+          évidentes face aux défis auxquels votre entreprise est confrontée .
         </p>
       </div>
       <div className="video"> </div>
