@@ -30,9 +30,9 @@
 @media screen and (max-width: 875px) {
     .profil-contenair{
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         border: none;
-        position: relative;
+        
     }
     .phrase-profil{
         
