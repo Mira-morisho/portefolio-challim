@@ -19,9 +19,11 @@ export default function () {
             <Navbar />
             <Buttonnavbar />
           </div>
-          <span className="hamburger" onClick={() => toggleMenu()}>
-            {drawMenu ? <AiOutlineClose /> : <AiOutlineMenu />}
-          </span>
+          <div className="div-hambuger">
+            <span className="hamburger" onClick={() => toggleMenu()}>
+              {drawMenu ? <AiOutlineClose /> : <AiOutlineMenu />}
+            </span>
+          </div>
         </div>
       </div>
     </>
