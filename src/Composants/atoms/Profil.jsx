@@ -3,12 +3,13 @@ import "../../styles/Profil.css";
 
 export default function Profil() {
   return (
-    <div className="Profil">
+    <div className="profilperso">
+      <div className="profilvide">v</div>
       <img
         src="profil-challim.png"
-        width="512"
-        height="512"
-        className=" image-profil"
+        width="261"
+        height="261"
+        className=" imageprofil"
       />
     </div>
   );
