@@ -1,0 +1,82 @@
+.profilcontenair{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 5%;
+}
+.profilperso{
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+   width: 30%;
+}
+.profilvide{
+width: 10%;
+}
+.imageprofil{
+margin-right: 0;
+border-top: 1px solid rgba(21, 21, 21, 0.15);
+}
+
+img{
+    margin-top: 17%;
+    margin-right: 10%;
+}
+
+.phrase-profil{
+    display: flex;
+    flex-direction: row;
+    
+}
+.presentationprincipal{
+    display: flex;
+    width: 70%;
+}
+
+
+.presentation{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    font-size: 20px;
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
+    border-left: 1px solid rgba(21, 21, 21, 0.15); 
+}
+
+.about{
+    font-size: 18px;
+    color: #B7B7B7;
+    font-family:  Helvetica, Arial, sans-serif;
+    text-align: left;
+    margin: 40px 70px;
+}
+.phrase-profil{
+    text-align: left;
+    font-size: 27px;
+    font-family:Helvetica, Arial, sans-serif;
+    line-height: 3.5rem;
+    margin: 0 70px;
+}
+
+
+
+@media screen and (max-width: 875px) {
+    .profil-contenair{
+        display: flex;
+        flex-direction: column-reverse;
+        border: none;
+        
+    }
+    .phrase-profil{
+        
+        font-size: 14px;
+        line-height: 1rem;
+        margin: 0  0 0 30px;
+        margin-right: 100px;
+        width: 600px;
+    }
+    .about{
+        font-size: 14px;
+        margin-left: 30px;
+    }
+}
