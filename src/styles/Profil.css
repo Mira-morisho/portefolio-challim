@@ -1,30 +1,48 @@
-.profilperso{
-    display: flex;
-    width: 30%;
-}
-.profilvide{
-
-}
-.imageprofil{
-margin: 0;
-}
-.profil-contenair{
+.profilcontenair{
     display: flex;
     flex-direction: row;
     width: 100%;
     margin-top: 5%;
-    border-top: 2px solid rgba(21, 21, 21, 0.15);
-
-   
 }
+.profilperso{
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+   width: 30%;
+}
+.profilvide{
+width: 10%;
+}
+.imageprofil{
+margin-right: 0;
+border-top: 1px solid rgba(21, 21, 21, 0.15);
+}
+
+img{
+    margin-top: 17%;
+    margin-right: 10%;
+}
+
+.phrase-profil{
+    display: flex;
+    flex-direction: row;
+    
+}
+.presentationprincipal{
+    display: flex;
+    width: 70%;
+}
+
 
 .presentation{
     display: flex;
     flex-direction: column;
-    width: 70%;
+    width: 65%;
     font-size: 20px;
-    border-left: 2px solid rgba(21, 21, 21, 0.15); 
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
+    border-left: 1px solid rgba(21, 21, 21, 0.15); 
 }
+
 .about{
     font-size: 18px;
     color: #B7B7B7;
