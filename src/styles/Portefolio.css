@@ -1,0 +1,26 @@
+.portefolio{
+    display: flex;
+    flex-direction: column;
+}
+.titreportefolio{
+    font-size: 7rem;
+    line-height: 8rem;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 5%;
+
+}
+.contenairportefolio{
+    display: flex;
+    width: 100%;
+}
+.buttonportefolio{
+    display: flex;
+    width: 30%;
+}
+.portefolioboutton{
+width: 24%;
+border-top: 1px solid rgba(21, 21, 21, 0.15);
+}
+.portefoliovide{
+
+}
