@@ -38,21 +38,31 @@
     width: 10%;
     border: none;
 }
-.bouton{
+.boutonall{
+    display: flex;
+    justify-content: space-between;
     margin: 10%;
     color: white;
         filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-        border: none;
-        font-family: 'Inter';   
-        font-weight: 500;
+        font-weight: 400;
+        height: 40px;
+        font-size: 20px;
         background: var(--green);
        padding: 12px;
        margin-top: 25px;
        border-radius: 50px;
-       width: 200px;
-       background-color: #6006d4;
+       width: 250px;
+       background-color: #6006d4; 
+       align-items: center;    
+}
+.boutonall:hover{
+    background-color: #0CA34D;
 }
 
+.allcasestude{
+    font-family: 'Inter';
+    font-size: 20px;
+}
 /** partie 2 **/
 
 .portefolio2{

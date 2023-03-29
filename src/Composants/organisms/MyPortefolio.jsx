@@ -8,7 +8,10 @@ export default function MyPortefolio() {
       <div className="portefolio1">
         <div className="boutonvide"></div>
         <div className="boutonprofil">
-          <button className="bouton">ALL CASE STUDE</button>
+          <div className="boutonall">
+            <div className="allcasestude">ALL CASE STUDE</div>
+            <AiOutlineClose />
+          </div>
         </div>
       </div>
       <div className="portefolio2">
