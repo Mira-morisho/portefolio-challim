@@ -1,0 +1,59 @@
+.titreportefoliodetail{
+    text-align: center;
+    font-size: 8rem;
+    color: white;
+    margin: 8% 0;
+
+}
+.headerportefolio{
+    color: white;
+}
+.headerportefolio a{
+    color: white;
+
+}
+/** realisation **/
+
+.realisation{
+    display: flex;
+    width: 100%;
+}
+.realisationtitre{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    border-top: 1px solid white;
+}
+.realisaticontireicone{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:  5% 10%;
+
+}
+.realisationtitre p{
+margin: 0 10%;
+}
+.realisationprojet{
+    color: white;
+    width: 70%;
+    border: 1px solid white;
+}
+/**_______**/
+
+.divrealisationprojet{
+    display: contents;
+    flex-direction: column;
+}
+.titrerealisationprojet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.listetitre{
+    display: flex;
+}
+.listetitre {
+color: white;
+}
