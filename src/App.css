@@ -37,9 +37,10 @@
   }
 } */
 .premierepage{
-  display: none;
+  display: block;
 }
 .dexiemepage{
   display: block;
   background-color: rgb(8, 8, 8);
+  display: none;
 }
