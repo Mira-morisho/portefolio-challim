@@ -1,8 +1,12 @@
-.bloc{
-    width: 100%;
+.video{
+    width: 100vw;
+    object-fit: cover;
+    height: 60vh;
+  
+
    
 }
-@media screen and (max-width: 780px) {
+/* @media screen and (max-width: 780px) {
     .bloc{
     margin-top: 40px;
     height: 400px;
@@ -11,4 +15,4 @@
         margin-top: 20px;
         height: 200px;
         }
-}
+} */

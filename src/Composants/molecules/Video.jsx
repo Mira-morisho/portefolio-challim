@@ -9,7 +9,7 @@ export default function Video() {
     alert("la video est terminé");
   };
   return (
-    <div className="bloc">
+    <div className="video">
       {/* <ReactPlayer
         url={internalSource}
         width="100%"
@@ -20,7 +20,7 @@ export default function Video() {
         className="video"
         onEnded={videoEnded}
       /> */}
-      <video controls width="100%" height="100%">
+      <video className="video">
         <source src="video/videobacgrand.mp4" type="video/mp4" />
       </video>
     </div>
