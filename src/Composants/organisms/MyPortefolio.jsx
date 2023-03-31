@@ -1,8 +1,11 @@
 import React from "react";
 import "../../styles/Portefolio.css";
 import { AiOutlineClose } from "react-icons/ai";
+import { useNavigate } from "react-router-dom";
 
 export default function MyPortefolio() {
+  const navigate = useNavigate();
+
   return (
     <div className="contenairportefolio">
       <div className="portefolio1">
@@ -10,7 +13,7 @@ export default function MyPortefolio() {
         <div className="boutonprofil">
           <div className="boutonall">
             <div className="allcasestude">ALL CASE STUDE</div>
-            <AiOutlineClose />
+            <AiOutlineClose onClick={() => navigate("/deuxieme")} />
           </div>
         </div>
       </div>

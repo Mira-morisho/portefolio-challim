@@ -6,7 +6,7 @@ import PortefolioDetailtitra from "../atoms/PortefolioDetailtitra";
 
 export default function PortefolioDetail() {
   return (
-    <div>
+    <div className="dexiemepage">
       <div className="headerportefolio">
         <Header />
       </div>

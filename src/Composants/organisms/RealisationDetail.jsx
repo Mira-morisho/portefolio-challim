@@ -39,7 +39,29 @@ export default function RealisationDetail() {
             --------------------------------------------------------------------------------------------------------------------------------------------------
           </div>
         </div>
-        <div className=""></div>
+        <div className="realistiondetail">
+          <div className="imgdetail">
+            <img
+              width={400}
+              height={372}
+              src="https://media.gettyimages.com/id/184276818/fr/photo/pomme-rouge.jpg?s=2048x2048&w=gi&k=20&c=d9atw7cYEvbe3Zmko9j1MJONJjh0AFFGkIYgkMOK9oM="
+              alt=""
+            />
+          </div>
+          <div className="realisationtexte">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
+              euismod lacinia turpis ac blandit. Suspendisse et ligula orci.
+              Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam
+              pellentesque est sed ultricies tempor. Donec quis ex
+            </p>
+            <div>
+              <div>MOBILE APLICATION</div>
+              <div>MOBILE APLICATION</div>
+              <div>MOBILE APLICATION</div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
