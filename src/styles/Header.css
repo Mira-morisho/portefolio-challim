@@ -1,18 +1,25 @@
 
 
-body{
-    width: 100vw;
-}
+/* body{
+    width: 100%;
+} */
 .header{
 display: flex;
 justify-content: space-between;
-padding: 0 6%;
+/* padding: 0 10%; */
 align-items: center;
 box-shadow: 1px 1px 1px #efefef;
 position: relative;
+width: 100%;
+}
+.headerlogo{
+    width: 10%;
+    display: flex;
+  
 }
 
 .logo{
+    
     padding: 0px;
     border: none;
     box-sizing: border-box;
@@ -20,6 +27,7 @@ position: relative;
     font-family: var(--font-neue);
     font-size: 60px;
     transition: all 0.3s ease-in-out 0s;
+    justify-content: left;
 }
 
 .logo:hover{
@@ -29,6 +37,7 @@ position: relative;
     .header li{
         display: inline-block;
         align-items: center;
+        justify-content: space-between;
         padding: 0.8rem;
         font-size: 16px;
         text-align: left;
@@ -44,9 +53,7 @@ position: relative;
     .navbar{
          display: flex;
         flex-direction: row;
-        /* justify-content: center; */
         align-items: center;
-        /* margin:0 25px; */
         font-family: var(--font-neue);
         font-weight: 400;
         font-size: 1.6rem;
@@ -56,14 +63,12 @@ position: relative;
     }
 
     .header button {
-         align-items: center;
+         /* align-items: center; */
         color: white;
         filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
         border: none;
-        font-family: 'Inter';
+        font-family: 'Inter';   
         font-weight: 400;
-        text-align: center; 
-        position: relative;
         font-size: 1.3rem;
         line-height: 150%;
         background: var(--green);
@@ -87,20 +92,47 @@ border: 1px solid rgb(240, 229, 229);
 }
 .navigation{
     display: flex;
+   width: 70%;
+   justify-content: space-between;
+  
 }
      @media screen and (max-width: 1024px) {
-        .header{
-            padding: 0 2%;
-        
+        /* .header{
+            padding: 0 4%;
+        } */
+        .navigation{
+           width: 76%;
         }
+        .headerlogo{
+            width: 7%;
+        }
+        .header li{
+
+            justify-content: space-between;
+            padding: 0.5em;
+            font-size: 14px;
+        }
+        
+        .header button {
+           
+           
+           font-weight: 400;
+           font-size: 1.1rem;
+           line-height: 150%;
+        }
+        
+      
+        
+        
     }
     @media screen and (max-width: 960px) {
         .header li{
             padding: 0.6rem;
             font-size: 13px; 
         } 
+        
     }
-    @media screen and (max-width: 860px) {
+    @media screen and (max-width: 910px) {
         .header li{
             padding: 0.5rem;
             font-size: 11px; 
@@ -116,7 +148,7 @@ border: 1px solid rgb(240, 229, 229);
     }
 
 
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 900px) {
     
         .header{
             flex-direction: column;

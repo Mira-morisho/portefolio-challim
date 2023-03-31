@@ -1,18 +1,20 @@
 .video{
-    width: 100vw;
+    width: 100%;
     object-fit: cover;
-    height: 60vh;
-  
-
-   
+    height: 80vh;
+    margin-top: -17%;
 }
-/* @media screen and (max-width: 780px) {
-    .bloc{
-    margin-top: 40px;
-    height: 400px;
+@media screen and (max-width: 780px) {
+    .video{
+        margin-top: -26%;;
+    
     }
-    .bloc{
-        margin-top: 20px;
-        height: 200px;
-        }
-} */
+    
+}
+@media screen and (max-width: 425px) {
+    .video{
+        margin-top: -30%;;
+    
+    }
+    
+}
