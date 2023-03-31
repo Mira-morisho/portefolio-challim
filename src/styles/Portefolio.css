@@ -7,7 +7,6 @@
     line-height: 6rem;
     font-family: Helvetica, Arial, sans-serif;
     margin: 5%;
-
 }
 .contenairportefolio{
     display: flex;
@@ -30,9 +29,7 @@
     
 }
 .boutonprofil{
-    width: 20%;
-   
-   
+    width: 20%; 
 }
 .boutonvide{
     width: 10%;
@@ -56,10 +53,7 @@
        align-items: center;    
 }
 
-
-
 .boutonall:hover{
-
     background-color: #0CA34D;
 }
 
