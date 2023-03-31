@@ -14,11 +14,15 @@ export default function () {
     <>
       <div>
         <div className="header">
-          <Logo />
+          <div className="headerlogo">
+            <Logo />
+          </div>
+
           <div className={drawMenu ? "navigation" : " navigation hiddenMenu"}>
             <Navbar />
             <Buttonnavbar />
           </div>
+
           <div className="div-hambuger">
             <span className="hamburger" onClick={() => toggleMenu()}>
               {drawMenu ? <AiOutlineClose /> : <AiOutlineMenu />}
