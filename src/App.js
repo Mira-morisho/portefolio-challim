@@ -5,15 +5,16 @@ import Acceuil from "./Composants/organisms/Acceuil";
 import Video from "./Composants/molecules/Video";
 import ProfilChallim from "./Composants/organisms/ProfilChallim";
 import Portefolio from "./Composants/organisms/Portefolio";
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import PortefolioDetail from "./Composants/pages/PortefolioDetail";
-import { render } from "@testing-library/react";
+import ProjetDetail from "./Composants/pages/ProjetDetail";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        .<div className="dexiemepage">{/* < */}</div>
+        <div className="dexiemepage">{/* < */}</div>
+        <div className="troisieme">{/* < */}</div>
       </div>
       <Routes>
         <Route
@@ -29,6 +30,7 @@ function App() {
           }
         />
         <Route path="/deuxieme" element={<PortefolioDetail />} />
+        <Route path="/troisieme" element={<ProjetDetail />} />
       </Routes>
     </BrowserRouter>
   );

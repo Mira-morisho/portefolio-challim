@@ -61,11 +61,29 @@ color: white;
 
 .realistiondetail{
     display: flex;
-    /* align-items: center;
-    justify-content: space-between; */
+  
+}
+.realistiondetail img{
+    margin-top: 0%;
+   margin: 5%;
 }
 .realisationtexte{
     display: flex;
     flex-direction: column;
-  
+    margin: 5%;
+    justify-content: space-between;
+}
+.realisationtext p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+.realisationmobilap{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.realisationmobilap div{
+    margin-bottom: 5%;
 }

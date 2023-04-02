@@ -41,6 +41,10 @@
 }
 .dexiemepage{
   display: block;
-  background-color: rgb(8, 8, 8);
-  /* display: block; */
+  background-color: rgb(4, 3, 22);
+  
+}
+.troisiemepage{
+  display: block;
+  background-color: #00052c;
 }

@@ -36,18 +36,16 @@ export default function RealisationDetail() {
             <AiOutlineClose />
           </div>
           <div>
-            --------------------------------------------------------------------------------------------------------------------------------------------------
+            ----------------------------------------------------------------------------------------------------------------------------
           </div>
         </div>
         <div className="realistiondetail">
-          <div className="imgdetail">
-            <img
-              width={400}
-              height={372}
-              src="https://media.gettyimages.com/id/184276818/fr/photo/pomme-rouge.jpg?s=2048x2048&w=gi&k=20&c=d9atw7cYEvbe3Zmko9j1MJONJjh0AFFGkIYgkMOK9oM="
-              alt=""
-            />
-          </div>
+          <img
+            width={320}
+            height={451}
+            src="https://www.kemiadeleke.com/static/media/proj-1.37196af1fdc6dda06072.png"
+            alt=""
+          />
           <div className="realisationtexte">
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
@@ -55,9 +53,9 @@ export default function RealisationDetail() {
               Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam
               pellentesque est sed ultricies tempor. Donec quis ex
             </p>
-            <div>
+            <div className="realisationmobilap">
               <div>MOBILE APLICATION</div>
-              <div>MOBILE APLICATION</div>
+              <div>100+ SCREENS</div>
               <div>MOBILE APLICATION</div>
             </div>
           </div>
