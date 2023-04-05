@@ -20,7 +20,7 @@ export default function RealisationDetail() {
           <div className="titrerealisationprojet">
             <h1>Astrid</h1>
             <ul className="listetitre">
-              <li>
+              {/* <li>
                 <a href="Brading"></a>
               </li>
               <li>
@@ -31,12 +31,12 @@ export default function RealisationDetail() {
               </li>
               <li>
                 <a href="Brading"></a>
-              </li>
+              </li> */}
             </ul>
             <AiOutlineClose />
           </div>
           <div>
-            ----------------------------------------------------------------------------------------------------------------------------
+            ------------------------------------------------------------------
           </div>
         </div>
         <div className="realistiondetail">

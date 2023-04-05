@@ -87,3 +87,39 @@ color: white;
 .realisationmobilap div{
     margin-bottom: 5%;
 }
+
+@media screen and (max-width: 470px) {
+  
+    .titreportefoliodetail{
+       
+        font-size: 3rem;
+        
+    }
+    .realisation{
+        display: flex;
+        flex-direction: column;
+        border: none;
+    }
+    .realisationtitre{
+        width: 100%;
+       border-top: none;
+        margin-bottom: 5%; 
+    }
+    .titrerealisationprojet{
+       width: 100%;
+    }
+    .realisationprojet{
+        color: white;
+        width: 70%;
+        border: none;
+    }
+    .realistiondetail{
+        display: flex;
+        flex-direction: column;
+      
+    }
+    .titrerealisationprojet h1{
+        margin-left: 5%;
+    }
+
+    }
