@@ -132,7 +132,13 @@
         font-size: 20px;
         padding: 5px;    
     }
+    .imgportefolio{
+        margin-top: 0%;
+        margin: 4%;
     }
+    }
+
+
     @media screen and (max-width: 870px) {
   
         .titreportefolio{
@@ -143,6 +149,9 @@
         display: flex;
         flex-direction: column-reverse;
         border: none;
+        align-items: flex-start;
+        margin-left: 5%;
+        
     }
 
     .portefolio2{
@@ -153,14 +162,28 @@
     .imgportefolio{
        
         width: 600px;
-        align-items: flex-start
+        
     }
     .paragraportefolio{
        
         margin: 0%;
-        width: 800px;
+        width: 500px;
         margin-left: 5%;
     }
         }
 
 
+        @media screen and (max-width: 425px) {
+  
+            .titreportefolio{
+                font-size: 2rem;
+            line-height: 2rem;
+            }
+    
+        .paragraportefolio{
+           
+            margin: 0%;
+            width: 400px;
+            margin-left: 5%;
+        }
+            }
