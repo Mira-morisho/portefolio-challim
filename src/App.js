@@ -16,7 +16,6 @@ function App() {
       <div className="App">
         <div className="dexiemepage">{/* < */}</div>
         <div className="troisieme">{/* < */}</div>
-        <Service />
       </div>
       <Routes>
         <Route

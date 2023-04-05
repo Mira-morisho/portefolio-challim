@@ -26,10 +26,22 @@ export default function () {
           <div className="Servicep1">
             <div className="titicon">
               <h1>Fintech</h1>
-              <AiOutlineClose />
+              <AiOutlineClose className="icon" />
             </div>
-            <div>
-              <p>
+            <div className="ecomerce">
+              <p className="paragrpheservice1">
+                I design smart, in-demand financial solutions, delighting the
+                client’s audience with innovations in the finance sector.
+                Putting end-users at the forefront and creating a high-end
+                experience, I improve business metrics with designs.
+              </p>
+              <div className="ecormercicon">
+                <h1> E-comerce</h1>
+                <AiOutlineClose className="icon" />
+              </div>
+            </div>
+            <div className="ecomerce">
+              <p className="paragrpheservice1">
                 I design smart, in-demand financial solutions, delighting the
                 client’s audience with innovations in the finance sector.
                 Putting end-users at the forefront and creating a high-end
@@ -38,8 +50,23 @@ export default function () {
             </div>
           </div>
           <div className="servicep2">
-            {" "}
-            mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+            <div className="blockchain">
+              <h1>Blockchain</h1>
+              <AiOutlineClose className="icon" />
+            </div>
+            <div className="ecomerce">
+              <p className="paragrpheservice1">
+                I design smart, in-demand financial solutions, delighting the
+                client’s audience with innovations in the finance sector.
+                Putting end-users at the forefront and creating a high-end
+                experience, I improve business metrics with designs.
+              </p>
+              <div className="blockchain">
+                <h1>Logistics</h1>
+                <AiOutlineClose className="icon" />
+              </div>
+            </div>
+            <div></div>
           </div>
         </div>
       </div>
