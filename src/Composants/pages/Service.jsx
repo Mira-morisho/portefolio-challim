@@ -66,7 +66,14 @@ export default function () {
                 <AiOutlineClose className="icon" />
               </div>
             </div>
-            <div></div>
+            <div className="ecomerce">
+              <p className="paragrpheservice1">
+                I design smart, in-demand financial solutions, delighting the
+                client’s audience with innovations in the finance sector.
+                Putting end-users at the forefront and creating a high-end
+                experience, I improve business metrics with designs.
+              </p>
+            </div>
           </div>
         </div>
       </div>

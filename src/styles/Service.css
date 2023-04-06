@@ -1,8 +1,6 @@
 .service{
-    border-top: 1px solid rgba(21, 21, 21, 0.15);
-    
     display: flex;
-    
+    border-top: 1px solid rgba(21, 21, 21, 0.15); 
 }
 .service .portefolio1{
     width: 30%;
@@ -66,15 +64,15 @@
 
 }
 .paragrpheservice1{
-    font-size: 16px;
+    font-size: 13px;
     font-family:  Helvetica, Arial, sans-serif;
     text-align: left;
     margin: 40px 70px;
+    width: 200px;
 }
 .ecormercicon{
     display: flex;
     margin: 0px 70px;
-    justify-content: end;
     margin-top: 120px;
 }
 .servicep2{
@@ -85,7 +83,62 @@
 display: flex;
 margin-left: 70px;
 margin-top: 180px;
+}
 
-
-
+@media screen and (max-width: 870px) {
+  
+    .serviceinstuit p{
+        font-size: 2rem;
+       line-height: 2.8rem;
+       padding-bottom: 45px;
+       margin: 5%;
+       width: 500px;
+   
+   }  
+}
+@media screen and (max-width: 870px) {
+  
+    .service{
+        display: flex;
+        flex-direction: column;
+        border-top: none; 
+       
+    }
+    .service .portefolio1{
+        height: auto;
+        border: none;
+    }
+    .autres-services{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .Servicep1 {
+        
+        width: 100%;
+        border-right: none
+}
+.paragrpheservice1{
+    font-size: 18px;
+    width: 500px;
+}
+.blockchain{
+    margin-top: 10px;
+    }
+    .ecormercicon{
+        
+        margin-top: 20px;
+    }
+    .serviceinstuit p{
+        font-size: 2rem;
+       line-height: 2.8rem;
+       padding-bottom: 45px;
+       margin:40px 70px;
+       width: 500px;
+   
+   }  
+   .service .portefolio1{
+    margin: 40px 70px;
+    border: none;
+}
 }
