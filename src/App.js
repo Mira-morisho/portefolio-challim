@@ -7,6 +7,7 @@ import ProfilChallim from "./Composants/organisms/ProfilChallim";
 import Portefolio from "./Composants/organisms/Portefolio";
 import PortefolioDetail from "./Composants/pages/PortefolioDetail";
 import ProjetDetail from "./Composants/pages/ProjetDetail";
+import Service from "./Composants/pages/Service";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
               <Video />
               <ProfilChallim />
               <Portefolio />
+              <Service />
             </div>
           }
         />
