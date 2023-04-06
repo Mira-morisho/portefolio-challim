@@ -85,7 +85,7 @@ margin-left: 70px;
 margin-top: 180px;
 }
 
-@media screen and (max-width: 870px) {
+@media screen and (max-width: 1024px) {
   
     .serviceinstuit p{
         font-size: 2rem;
@@ -100,7 +100,7 @@ margin-top: 180px;
   
     .service{
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         border-top: none; 
        
     }
