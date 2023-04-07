@@ -1,18 +1,42 @@
 // import logo from "./logo.svg";
-// import "./App.css";
+import "./App.css";
 import Header from "./Composants/organisms/Header";
 import Acceuil from "./Composants/organisms/Acceuil";
 import Video from "./Composants/molecules/Video";
 import ProfilChallim from "./Composants/organisms/ProfilChallim";
+import Portefolio from "./Composants/organisms/Portefolio";
+import PortefolioDetail from "./Composants/pages/PortefolioDetail";
+import ProjetDetail from "./Composants/pages/ProjetDetail";
+import Service from "./Composants/pages/Service";
+import Client from "./Composants/organisms/Client";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Acceuil />
-      <Video />
-      <ProfilChallim />
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <div className="dexiemepage">{/* < */}</div>
+        <div className="troisieme">{/* < */}</div>
+      </div>
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <div className="premierepage">
+              <Header />
+              <Acceuil />
+              <Video />
+              <ProfilChallim />
+              <Portefolio />
+              <Service />
+              <Client />
+            </div>
+          }
+        />
+        <Route path="/deuxieme" element={<PortefolioDetail />} />
+        <Route path="/troisieme" element={<ProjetDetail />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
