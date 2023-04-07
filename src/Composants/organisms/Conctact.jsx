@@ -14,6 +14,7 @@ export default function Conctact() {
       </div>
       <div className="imgcontact">
         <img
+          className="photocontact"
           width={600}
           src="https://www.kemiadeleke.com/static/media/footer-image.d4f3ab5ae9a71ccf7e5d.png"
         />
