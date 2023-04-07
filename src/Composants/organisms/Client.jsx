@@ -6,9 +6,9 @@ import "../../styles/Client.css";
 export default function Client() {
   const clients = [
     {
-      name: "Mira",
+      name: "MRA MORISHO",
       description:
-        "Moi mira safi  design smart, in-demand financial solutions, delighting the client’s audience with innovations in the finance sector. Putting end-users at the forefront and creating a high-end experience, I improve business metrics with designs.",
+        "Moi mira safi  design smart, in-demand financial solutions, delighting the client’s audience with innovations in the finance sector. Putting end-users at the forefront and creating a high-end experience, I improve business  Moi mira safi design smart, in-demand financial solutions, delighting the client’s audience with innovations in the finance sector. Putting end-users at the forefront and creating a high-end experience, I improve business metrics with designs.metrics with designs.",
       photo:
         "https://www.kemiadeleke.com/static/media/proj-1.37196af1fdc6dda06072.png",
     },
@@ -20,7 +20,7 @@ export default function Client() {
         "https://www.kemiadeleke.com/static/media/proj-1.37196af1fdc6dda06072.png",
     },
     {
-      name: "MICOCO",
+      name: "MICOCO ",
       description:
         "Bonjour  design smart, in-demand financial solutions, delighting the client’s audience with innovations in the finance sector. Putting end-users at the forefront and creating a high-end experience, I improve business metrics with designs. safi est une dev fillstack patiskjkqjsq",
       photo:
@@ -28,8 +28,8 @@ export default function Client() {
     },
   ];
   return (
-    <div className="client">
-      <TitreClient />
+    <div>
+      {/* <TitreClient /> */}
       <PersonnageClient Parentclients={clients} />
     </div>
   );
