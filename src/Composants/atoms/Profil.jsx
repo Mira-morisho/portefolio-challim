@@ -10,7 +10,7 @@ export default function Profil() {
           src="profil-challim.png"
           width="261"
           height="261"
-          className=" img"
+          className=" imgpresentation"
         />
       </div>
     </div>
