@@ -9,7 +9,7 @@ export default function () {
         <div className="boutonvide"></div>
         <div className="boutonprofil">
           <div className="boutonall">
-            <div className="allcasestude">ALL CASE STUDE</div>
+            <div className="allcasestude"> SERVICED INDUSTRIES</div>
             <AiOutlineClose />
           </div>
         </div>
