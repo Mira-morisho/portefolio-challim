@@ -1,19 +1,17 @@
 .portefolio{
     display: flex;
     flex-direction: column;
-   
     
 }
 .titreportefolio{
-    font-size: 8rem;
-    line-height: 7.5rem;
+    font-size: 6rem;
+    line-height: 6rem;
     font-family: Helvetica, Arial, sans-serif;
     margin: 5%;
 }
 .contenairportefolio{
     display: flex;
     width: 100%;
-    border-top: 1px solid rgba(21, 21, 21, 0.15);
 }
 .contenairportefolio{
     display: flex;
@@ -27,7 +25,7 @@
     width: 30%;
     display: flex;
     flex-direction: row;
-    /* border-top: 1px solid rgba(21, 21, 21, 0.15); */
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
     height: 1500px;
 }
 .boutonprofil{
@@ -63,12 +61,6 @@
     font-family: 'Inter';
     font-size: 20px;
 }
-.portefolioname{
-    display: flex;
-}
-
-
-
 /** partie 2 **/
 
 .portefolio2{
@@ -84,8 +76,6 @@
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid rgba(21, 21, 21, 0.15);
-    height: 500px;
-    margin-top: 0px;
 }
 .altridicone{
     display: flex;
@@ -116,16 +106,15 @@
     display: flex;
     flex-direction: column;
     width: 35%;
-    /* border-top: 1px solid rgba(21, 21, 21, 0.15); */
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
     height: auto;
 }
 .imgportefolio{
     margin-top: 0%;
+    margin: 5%;
 }
 .portefolio3contenair{
     border-bottom: 1px solid rgba(21, 21, 21, 0.15);
-    height: 500px;
-    margin-top: 0px;
 }
 .portefolio3contenair2{
     border-top: 1px solid rgba(21, 21, 21, 0.15);
