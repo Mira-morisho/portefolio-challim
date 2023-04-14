@@ -20,7 +20,7 @@ export default function Video() {
         className="video"
         onEnded={videoEnded}
       /> */}
-      <video controls width="100%" height="100%">
+      <video controls width="100%" className="video">
         <source src="video/videobacgrand.mp4" type="video/mp4" />
       </video>
     </div>

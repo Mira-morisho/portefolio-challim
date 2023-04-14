@@ -1,0 +1,193 @@
+.portefolio{
+    display: flex;
+    flex-direction: column;
+    
+}
+.titreportefolio{
+    font-size: 6rem;
+    line-height: 6rem;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 5%;
+}
+.contenairportefolio{
+    display: flex;
+    width: 100%;
+}
+.contenairportefolio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+ /** partie 1**/  
+    
+.portefolio1{
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
+    height: 1500px;
+}
+.boutonprofil{
+    width: 20%; 
+}
+.boutonvide{
+    width: 10%;
+    border: none;
+}
+.boutonall{
+    display: flex;
+    justify-content: space-between;
+    margin: 10%;
+    color: white;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        font-weight: 400;
+        height: 40px;
+        font-size: 20px;
+        background: var(--green);
+       padding: 12px;
+       margin-top: 25px;
+       border-radius: 50px;
+       width: 250px;
+       background-color: #6006d4; 
+       align-items: center;    
+}
+
+.boutonall:hover{
+    background-color: #0CA34D;
+}
+
+.allcasestude{
+    font-family: 'Inter';
+    font-size: 20px;
+}
+/** partie 2 **/
+
+.portefolio2{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    border: 1px solid rgba(21, 21, 21, 0.15);
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+.portefolio2pricipaldiv{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid rgba(21, 21, 21, 0.15);
+}
+.altridicone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5%;
+}
+.altrid{
+    font-family:  Helvetica, Arial, sans-serif;
+}
+.paragraportefolio{
+    font-family:  Helvetica, Arial, sans-serif;
+    text-align: left;
+    margin: 5%;
+}
+.mobilappli{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 19% 5%;
+    font-size: 12px;
+   
+} 
+
+
+/** partie 3 **/
+
+
+.portefolio3{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
+    height: auto;
+}
+.imgportefolio{
+    margin-top: 0%;
+    margin: 5%;
+}
+.portefolio3contenair{
+    border-bottom: 1px solid rgba(21, 21, 21, 0.15);
+}
+.portefolio3contenair2{
+    border-top: 1px solid rgba(21, 21, 21, 0.15);
+}
+
+@media screen and (max-width: 1024px) {
+  
+    .titreportefolio{
+        font-size: 8rem;
+    line-height: 10rem;
+    }
+
+    .boutonall{
+        height: 50px;
+        font-size: 20px;
+        padding: 5px;    
+    }
+    .imgportefolio{
+        margin-top: 0%;
+        margin: 4%;
+    }
+    }
+
+
+    @media screen and (max-width: 870px) {
+  
+        .titreportefolio{
+            font-size: 3rem;
+        line-height: 4rem;
+        }
+    .contenairportefolio{
+        display: flex;
+        flex-direction: column-reverse;
+        border: none;
+        align-items: flex-start;
+        margin-left: 5%;
+        
+    }
+
+    .portefolio2{
+        border: none;
+        width: auto;
+        /* border-top: 1px solid rgba(21, 21, 21, 0.15); */
+    }
+    .imgportefolio{
+       
+        width: 600px;
+        
+    }
+    .paragraportefolio{
+       
+        margin: 0%;
+        width: 500px;
+        margin-left: 5%;
+    }
+    .portefolio1{
+        
+        height: auto;
+    }
+        }
+
+
+        @media screen and (max-width: 425px) {
+  
+            .titreportefolio{
+                font-size: 2rem;
+            line-height: 2rem;
+            }
+    
+        .paragraportefolio{
+           
+            margin: 0%;
+            width: 400px;
+            margin-left: 5%;
+        }
+            }
