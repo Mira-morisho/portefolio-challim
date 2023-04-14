@@ -2,6 +2,7 @@ import React from "react";
 import "../../styles/Contact.css";
 import { useForm } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
+import { useNavigate } from "react-router-dom";
 import * as yup from "yup";
 import {
   AiOutlineMail,
@@ -12,6 +13,8 @@ import {
 } from "react-icons/ai";
 
 export default function Conctact() {
+  const navigate = useNavigate();
+
   const schema = yup
     .object({
       name: yup.string().max(50).required("merci d avoir entrer votre nom"),
@@ -41,10 +44,18 @@ export default function Conctact() {
         </h1>
 
         <div className="iconecontact">
-          <AiOutlineMail />
-          <AiOutlineFacebook />
-          <AiOutlineLinkedin />
-          <AiOutlineTwitter />
+          <AiOutlineMail
+            onClick={() => navigate("https://web.facebook.com/?_rdc=1&_rdr")}
+          />
+          <AiOutlineFacebook
+            onClick={() => navigate("https://mail.google.com/mail/u/0/#inbox")}
+          />
+          <AiOutlineLinkedin
+            onClick={() => navigate("https://web.facebook.com/?_rdc=1&_rdr")}
+          />
+          <AiOutlineTwitter
+            onClick={() => navigate("https://web.facebook.com/?_rdc=1&_rdr")}
+          />
         </div>
         <form className="form" onSubmit={handleSubmit(onSubmit)}>
           <div className="input">
