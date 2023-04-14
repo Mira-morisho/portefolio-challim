@@ -68,22 +68,19 @@
 .buttoncontact .boutonall:hover{
     background-color: black;
 }
-.buttoncontact .boutonall{
-    display: flex;
-    justify-content: space-between;
+.butoncontact{
+   border: none;
     color: white;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    font-weight: 400;
-    height: 40px;
+    font-weight: 500;
+    height: 50px;
     font-size: 16px;
-    background: var(--green);
-    padding: 12px;
-    /* margin-top: 25px; */
     border-radius: 50px;
     width: 250px;
     background-color: #6006d4; 
-    align-items: center;  
-    justify-content: space-evenly;
-    margin-left: 10%;
-    
+    margin-left: 20%;
+    margin-bottom: 5%; 
+}
+.butoncontact:hover{
+    background-color: black;
 }
