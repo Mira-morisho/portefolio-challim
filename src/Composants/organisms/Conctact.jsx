@@ -4,6 +4,7 @@ import { useForm } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { useNavigate } from "react-router-dom";
 import * as yup from "yup";
+import { Link, NavLink } from "react-router-dom";
 import {
   AiOutlineMail,
   AiOutlineFacebook,
@@ -39,23 +40,40 @@ export default function Conctact() {
   return (
     <div className="contact">
       <div className="formulaire">
-        <h1 className="titrecontact">
+        <h3 className="titrecontact">
           I am not hard to find, let's design something truly spectacular!
-        </h1>
+        </h3>
 
         <div className="iconecontact">
-          <AiOutlineMail
-            onClick={() => navigate("https://web.facebook.com/?_rdc=1&_rdr")}
-          />
-          <AiOutlineFacebook
-            onClick={() => navigate("https://mail.google.com/mail/u/0/#inbox")}
-          />
-          <AiOutlineLinkedin
-            onClick={() => navigate("https://web.facebook.com/?_rdc=1&_rdr")}
-          />
-          <AiOutlineTwitter
-            onClick={() => navigate("https://web.facebook.com/?_rdc=1&_rdr")}
-          />
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="mailto:challim@kinshasadigital.com?subject=feedback"
+          >
+            <AiOutlineMail />
+          </a>
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="https://web.facebook.com/?_rdc=1&_rdr"
+          >
+            <AiOutlineFacebook />
+          </a>
+
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="https://www.linkedin.com/feed/"
+          >
+            <AiOutlineLinkedin />
+          </a>
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="https://web.facebook.com/?_rdc=1&_rdr"
+          >
+            <AiOutlineTwitter />
+          </a>
         </div>
         <form className="form" onSubmit={handleSubmit(onSubmit)}>
           <div className="input">
