@@ -12,7 +12,7 @@ export default function MyPortefolio() {
         <div className="boutonvide"></div>
         <div className="boutonprofil">
           <div className="boutonall">
-            <div className="allcasestude">ALL CASE STUDE</div>
+            <div className="allcasestude">CASE STUDE</div>
             <AiOutlineClose onClick={() => navigate("/deuxieme")} />
           </div>
         </div>
