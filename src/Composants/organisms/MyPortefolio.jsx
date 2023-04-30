@@ -12,8 +12,20 @@ export default function MyPortefolio() {
         <div className="boutonvide"></div>
         <div className="boutonprofil">
           <div className="boutonall">
-            <div className="allcasestude">ALL CASE STUDE</div>
-            <AiOutlineClose onClick={() => navigate("/deuxieme")} />
+            <div className="allcasestude">CASE STUDE</div>
+            <svg
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              onClick={() => navigate("/deuxieme")}
+            >
+              <path
+                d="M16.0039 9.414L7.39691 18.021L5.98291 16.607L14.5889 8H7.00391V6H18.0039V17H16.0039V9.414Z"
+                fill="white"
+              ></path>
+            </svg>
           </div>
         </div>
       </div>
