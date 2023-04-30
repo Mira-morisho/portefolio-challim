@@ -5,9 +5,12 @@
 }
 .titreportefolio{
     font-size: 6rem;
-    line-height: 6rem;
-    font-family: Helvetica, Arial, sans-serif;
+    line-height: 7.5rem;
+    --font-made: Made,Helvetica,Arial,sans-serif;
+    --font-neue: Neue,Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
     margin: 5%;
+    font-weight: 900;
 }
 .contenairportefolio{
     display: flex;
@@ -91,7 +94,7 @@
     font-family:  Helvetica, Arial, sans-serif;
 }
 .paragraportefolio{
-    font-family:  Helvetica, Arial, sans-serif;
+    font-family:  Neue,Helvetica,Arial,sans-serif;
     text-align: left;
     margin: 5%;
 }
