@@ -2,7 +2,9 @@ import React from "react";
 import "../../styles/Contact.css";
 import { useForm } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
+import { useNavigate } from "react-router-dom";
 import * as yup from "yup";
+import { Link, NavLink } from "react-router-dom";
 import {
   AiOutlineMail,
   AiOutlineFacebook,
@@ -12,6 +14,8 @@ import {
 } from "react-icons/ai";
 
 export default function Conctact() {
+  const navigate = useNavigate();
+
   const schema = yup
     .object({
       name: yup.string().max(50).required("merci d avoir entrer votre nom"),
@@ -36,15 +40,40 @@ export default function Conctact() {
   return (
     <div className="contact">
       <div className="formulaire">
-        <h1 className="titrecontact">
+        <h3 className="titrecontact">
           I am not hard to find, let's design something truly spectacular!
-        </h1>
+        </h3>
 
         <div className="iconecontact">
-          <AiOutlineMail />
-          <AiOutlineFacebook />
-          <AiOutlineLinkedin />
-          <AiOutlineTwitter />
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="mailto:challim@kinshasadigital.com?subject=feedback"
+          >
+            <AiOutlineMail />
+          </a>
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="https://web.facebook.com/?_rdc=1&_rdr"
+          >
+            <AiOutlineFacebook />
+          </a>
+
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="https://www.linkedin.com/feed/"
+          >
+            <AiOutlineLinkedin />
+          </a>
+          <a
+            className="iconereseau"
+            style={{ color: "black" }}
+            href="https://web.facebook.com/?_rdc=1&_rdr"
+          >
+            <AiOutlineTwitter />
+          </a>
         </div>
         <form className="form" onSubmit={handleSubmit(onSubmit)}>
           <div className="input">
