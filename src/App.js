@@ -9,6 +9,7 @@ import PortefolioDetail from "./Composants/pages/PortefolioDetail";
 import ProjetDetail from "./Composants/pages/ProjetDetail";
 import Service from "./Composants/pages/Service";
 import Client from "./Composants/organisms/Client";
+import Conctact from "./Composants/organisms/Conctact";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
               <Portefolio />
               <Service />
               <Client />
+              <Conctact />
             </div>
           }
         />

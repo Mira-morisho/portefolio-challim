@@ -54,7 +54,7 @@ export default function PersonnageClient({ Parentclients }) {
         </div>
       </div>
       <div className="personnageclient">
-        <div className="clientel    ">
+        <div className="clientel">
           <div className="boutonvide"></div>
           <div className="boutonprofil">
             <div className="boutonall">

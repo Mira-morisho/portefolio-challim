@@ -5,7 +5,7 @@ export default function Presentation() {
   return (
     <div className=" presentationprincipal">
       <div className="presentation">
-        <h3 className="about"> APR0POS DE MOI</h3>
+        <h3 className="about"> APROPOS DE MOI</h3>
         <p className="phrase-profil">
           Professionnelle, organisée et fiable, dotée d'une pensée critique et
           de compétences créatives avérées. J'ai plus de 15 ans d'expérience

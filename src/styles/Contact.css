@@ -1,0 +1,143 @@
+.contact{
+    display: flex;
+    width: 100%;
+    margin: 0;
+}
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.imgcontact{
+    width: 50%;
+    margin: 0;
+}
+/**__**/
+
+.photocontact{
+    margin-top: 0%;
+}
+.iconecontact{
+    display: flex;
+    font-size: 2.3rem;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+.iconereseau{
+    margin-right: 10%;
+}
+
+
+.titrecontact{
+    font-weight: 900;
+    font-size: 3.2rem;
+    line-height: 4.47rem;
+    margin: 5% 10%;
+    color: var(--black);
+    font-family: var(--font-made);
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin: 5% 5% 15% 10%;
+}
+.input input{
+   
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 2.4rem;
+    color: var(--black);
+    padding: 12px 28px;
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 30px;
+    margin-bottom: 24px;
+}
+.input textarea{
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 2.4rem;
+    color: var(--black);
+    padding: 12px 28px;
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 30px;
+    margin-bottom: 0;
+    height: 150px;
+}
+.buttoncontact{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+.buttoncontact .boutonall:hover{
+    background-color: black;
+}
+.butoncontact{
+   border: none;
+    color: white;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    font-weight: 500;
+    height: 50px;
+    font-size: 16px;
+    border-radius: 50px;
+    width: 250px;
+    background-color: #6006d4; 
+    margin-left: 20%;
+    margin-bottom: 5%; 
+}
+.butoncontact:hover{
+    background-color: black;
+}
+@media screen and (max-width: 870px) {
+    .contact{
+        display: flex;
+        flex-direction: column;
+    }
+    .titrecontact{
+        font-size: 2rem;
+        padding: 40px 0px 24px;
+       width: 700px;
+        font-size: 2.4rem;
+        line-height: 3rem;
+    }
+    .input input{
+        font-weight: 400;
+       line-height: 1rem;
+        width: 550px;
+    }
+    .input textarea{
+        width: 550px;
+    }
+    .photocontact{
+        height: 240px;
+    }
+
+    }
+    @media screen and (max-width: 450px) {
+        .contact{
+            display: flex;
+            flex-direction: column;
+        }
+        .titrecontact{
+            font-size: 0.7rem;
+           width: 500px;
+            font-size: 1.8rem;
+            line-height: 3rem;
+        }
+        .input input{
+            font-weight: 400;
+           line-height: 1rem;
+            width: 400px;
+        }
+        .input textarea{
+            width: 400px;
+        }
+        .photocontact{
+            height: 240px;
+        }
+    
+        }
+   
