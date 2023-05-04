@@ -5,6 +5,7 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import { useNavigate } from "react-router-dom";
 import * as yup from "yup";
 import { Link, NavLink } from "react-router-dom";
+import emailjs from "@emailjs/browser";
 import {
   AiOutlineMail,
   AiOutlineFacebook,
@@ -33,10 +34,26 @@ export default function Conctact() {
     formState: { errors },
     handleSubmit,
   } = useForm({ resolver: yupResolver(schema) });
-  const onSubmit = () => {
+  const onSubmit = (data, r) => {
     alert("merci d'avoir rempli notre formulaire");
+    const templated = "templated-cuteted";
+    const serviceId = " service2111";
+    sendFeedBack(serviceId, templated, {
+      name: data.name,
+      email: data.email,
+      message: data.message,
+      reply_to: r.target.reset(),
+    });
   };
 
+  const sendFeedBack = (serviceId, templated, variables) => {
+    emailjs
+      .send(serviceId, templated, variables, "DjLzPk21s2NdhSSR4xd41")
+      .then((res) => {
+        console.log("surcess");
+      });
+    // .catch((error) => console.error("il ya unr error "));
+  };
   return (
     <div className="contact">
       <div className="formulaire">
