@@ -12,8 +12,20 @@ export default function MyPortefolio() {
         <div className="boutonvide"></div>
         <div className="boutonprofil">
           <div className="boutonall">
-            <div className="allcasestude">ALL CASE STUDE</div>
-            <AiOutlineClose onClick={() => navigate("/deuxieme")} />
+            <div className="allcasestude">CASE STUDE</div>
+            <svg
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              onClick={() => navigate("/deuxieme")}
+            >
+              <path
+                d="M16.0039 9.414L7.39691 18.021L5.98291 16.607L14.5889 8H7.00391V6H18.0039V17H16.0039V9.414Z"
+                fill="white"
+              ></path>
+            </svg>
           </div>
         </div>
       </div>
@@ -23,7 +35,19 @@ export default function MyPortefolio() {
             <div className="altridicone">
               <h1 className="altrid">ALtrid</h1>
               <div className="iconeportefolio">
-                <AiOutlineClose onClick={() => navigate("/troisieme")} />
+                <svg
+                  width="32"
+                  height="32"
+                  viewBox="0 0 32 32"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  onClick={() => navigate("/troisieme")}
+                >
+                  <path
+                    d="M21.3386 12.552L9.86263 24.028L7.97729 22.1427L19.452 10.6667H9.33863V8H24.0053V22.6667H21.3386V12.552Z"
+                    fill="#010101"
+                  ></path>
+                </svg>
               </div>
             </div>
             <p className="paragraportefolio">
@@ -54,7 +78,19 @@ export default function MyPortefolio() {
             <div className="altridicone">
               <h1 className="altrid">ALtrid</h1>
               <div className="iconeportefolio">
-                <AiOutlineClose onClick={() => navigate("/troisieme")} />
+                <svg
+                  width="32"
+                  height="32"
+                  viewBox="0 0 32 32"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  onClick={() => navigate("/troisieme")}
+                >
+                  <path
+                    d="M21.3386 12.552L9.86263 24.028L7.97729 22.1427L19.452 10.6667H9.33863V8H24.0053V22.6667H21.3386V12.552Z"
+                    fill="#010101"
+                  ></path>
+                </svg>
               </div>
             </div>
             <p className="paragraportefolio">
@@ -84,7 +120,19 @@ export default function MyPortefolio() {
             <div className="altridicone">
               <h1 className="altrid">ALtrid</h1>
               <div className="iconeportefolio">
-                <AiOutlineClose onClick={() => navigate("/troisieme")} />
+                <svg
+                  width="32"
+                  height="32"
+                  viewBox="0 0 32 32"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  onClick={() => navigate("/troisieme")}
+                >
+                  <path
+                    d="M21.3386 12.552L9.86263 24.028L7.97729 22.1427L19.452 10.6667H9.33863V8H24.0053V22.6667H21.3386V12.552Z"
+                    fill="#010101"
+                  ></path>
+                </svg>
               </div>
             </div>
             <p className="paragraportefolio">
