@@ -5,7 +5,7 @@ import "../../styles/Profil.css";
 
 export default function ProfilChallim() {
   return (
-    <div className="profilcontenair">
+    <div className="profilcontenair" id="about">
       <Profil />
       <Presentation />
     </div>

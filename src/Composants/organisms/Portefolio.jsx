@@ -5,7 +5,7 @@ import "../../styles/Portefolio.css";
 
 export default function Portefolio() {
   return (
-    <div className="portefolio">
+    <div className="portefolio" id="portefolio">
       <Titreportefolio />
       <MyPortefolio />
     </div>

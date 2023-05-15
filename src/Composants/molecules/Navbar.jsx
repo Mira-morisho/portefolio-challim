@@ -9,19 +9,20 @@ export default function () {
       <nav className="navbar">
         <ul className="menu">
           <li>
-            <a href="#index.html">ACCEUIL</a>
+            <a href="#acceuil">ACCEUIL</a>
           </li>
           <li>
-            <a href="#serverices">SERVICE</a>
+            <a href="#about">A PROPOS</a>
           </li>
-          <li>
-            <a href="#skills">COMPETANCE</a>
-          </li>
+
           <li>
             <a href="#portefolio">PORTEFOLIO</a>
           </li>
           <li>
-            <a href="#conctat">CONTACT</a>
+            <a href="#service">SERVICE</a>
+          </li>
+          <li>
+            <a href="#contact">CONTACT</a>
           </li>
         </ul>
       </nav>

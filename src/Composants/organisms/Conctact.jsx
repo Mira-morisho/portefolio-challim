@@ -55,7 +55,7 @@ export default function Conctact() {
     // .catch((error) => console.error("il ya unr error "));
   };
   return (
-    <div className="contact">
+    <div className="contact" id="contact">
       <div className="formulaire">
         <h3 className="titrecontact">
           I am not hard to find, let's design something truly spectacular!
